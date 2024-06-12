@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Descubra a Serra Gaúcha e Suas Principais Atrações Aqui. Contato Via Instagram: @dserragaucha.">
+<meta name="keywords" content="Gramado, serra, gaucha, serra gaucha, turismo, Rio Grande do Sul, guia, descubra serra gaucha, descubra, Gramado RS, Catedral, Catedral de Pedra, Igreja, Igreja de Pedra">
+<meta name="google-adsense-account" content="ca-pub-2086035185741362">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QXKWZ2Z0MM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QXKWZ2Z0MM');
+</script>
+
+<title>Guia Turístico da Serra Gaúcha</title>
+<link rel="stylesheet" href="/css/index.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(function(){
+            $("#header").load("/headerfooter/header.html");
+        });
+    </script>
+    <script>
+    $(function(){
+        $("#footer").load("/headerfooter/footer.html");
+    });
+    </script>
+</head>
+<body>
+    <div id="header"></div>
+ <main>
+<h2>Catedral de Pedra</h2>
+    <p>A Catedral de Pedra de Gramado é um marco icônico da cidade, uma obra-prima arquitetônica que evoca a grandiosidade espiritual e a beleza das montanhas da Serra Gaúcha.</p><br>
+    
+ <strong>A Majestosa Catedral de Pedra de Gramado</strong>
+    
+<p>À medida que você se aproxima do centro de Gramado, na encantadora Serra Gaúcha, é impossível não se maravilhar com a presença imponente da Catedral de Pedra. Esta magnífica obra arquitetônica se ergue majestosamente contra o céu, sua fachada de pedra exibindo uma fusão espetacular de estilos gótico e renascentista.</p>
+
+<p>Concluída em 1943, a Catedral de Pedra é um tributo à engenhosidade humana e à devoção espiritual. Seu exterior é uma obra de arte em si, com detalhes intricados, torres que se elevam graciosamente e uma rosa dos ventos esculpida em pedra que saúda os visitantes.</p>
+
+<p>Ao entrar na catedral, a grandiosidade da estrutura se desdobra diante de seus olhos. As paredes de pedra, altas e elegantes, sustentam abóbadas impressionantes que se assemelham a um céu estrelado. Os vitrais coloridos, meticulosamente trabalhados, banham o interior em uma luz suave e multicolorida, criando um ambiente de serenidade e reverência.</p>
+
+<p>O órgão da Catedral de Pedra é uma maravilha musical, com notas que parecem tocar os corações daqueles que têm o privilégio de ouvi-lo. O altar-mor, adornado com detalhes dourados, é uma peça central de adoração e contemplação.</p>
+
+<p>À medida que você caminha pelos corredores desta catedral extraordinária, pode sentir uma sensação de paz profunda e um profundo respeito pelo poder da fé. A catedral é um local de oração, mas também um local onde se pode apreciar a harmonia da arquitetura e a riqueza da herança cultural da região.</p>
+
+<p>Do lado de fora, o jardim que circunda a catedral é um refúgio tranquilo, um lugar onde se pode meditar e admirar a beleza natural das montanhas que cercam Gramado. A catedral é frequentemente palco de eventos e festivais religiosos, onde a comunidade se reúne para celebrar sua fé e tradições.</p>
+
+<p>A Catedral de Pedra é muito mais do que uma igreja; é um símbolo de Gramado, uma manifestação da habilidade humana e um farol espiritual. Ela representa a essência da cidade, onde a natureza e a fé se encontram em uma dança harmoniosa.</p>
+
+<p>Visitar a Catedral de Pedra de Gramado é uma jornada que transcende o tempo e o espaço. É uma experiência que toca a alma e inspira a mente. É uma lembrança de que, mesmo em nossa busca incessante por progresso e modernidade, a beleza da fé e da arquitetura continua a nos cativar e nos conectar com o sublime.</p>
+
+<p>Portanto, ao explorar as maravilhas de Gramado, não deixe de incluir a Catedral de Pedra em seu itinerário. Deixe-se envolver pela aura mágica deste local sagrado, onde as pedras contam histórias e a espiritualidade se eleva até o céu.</p>
+
+	<div class="imagem-fixa">
+     <div class="carousel slide" id="carouselExampleSlides" data-bs-ride="carousel" data-bs-interval="3000">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://a.travel-assets.com/findyours-php/viewfinder/images/res70/159000/159260-Rio-Grande-Do-Sul-State.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://www.gramadooficial.com.br/wp-content/uploads/2021/09/MG_1542-scaled.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://a.travel-assets.com/findyours-php/viewfinder/images/res70/159000/159258-Rio-Grande-Do-Sul-State.jpg" class="d-block w-100" alt="...">
+        </div>
+      </div>
+     </div>
+    </div>
+    
+    <span class="texto"><a target="_blank" href=https://www.gramadoinesquecivel.tur.br/experiencia/igreja-sao-pedro>Saber mais sobre a Catedral de Pedra</a></span>
+	
+  </main>
+    <div id="footer"></div>
+</body>
+</html>

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Descubra a Serra Gaúcha e Suas Principais Atrações Aqui. Contato Via Instagram: @dserragaucha.">
+<meta name="keywords" content="Gramado, serra, gaucha, serra gaucha, turismo, Rio Grande do Sul, guia, descubra serra gaucha, descubra, Gramado RS, Exceed, Videogame, Jogos">
+<meta name="google-adsense-account" content="ca-pub-2086035185741362">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QXKWZ2Z0MM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QXKWZ2Z0MM');
+</script>
+
+<title>Guia Turístico da Serra Gaúcha</title>
+<link rel="stylesheet" href="/css/index.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(function(){
+            $("#header").load("/headerfooter/header.html");
+        });
+    </script>
+    <script>
+    $(function(){
+        $("#footer").load("/headerfooter/footer.html");
+    });
+    </script>
+</head>
+<body>
+    <div id="header"></div>
+ <main>
+<h2>Exceed</h2>
+    <p>Este parque é conhecido por oferecer uma variedade de atrações e atividades emocionantes para visitantes de todas as idades.</p><br>
+    
+ <strong>Atrações e Entretenimento:</strong>
+    
+<p>O Exceed Experience Park é famoso por suas atrações emocionantes. Ele oferece uma variedade de atividades, desde montanhas-russas até simuladores de alta tecnologia. Os visitantes podem experimentar a adrenalina de passeios emocionantes que proporcionam uma sensação de velocidade e empolgação.</p>
+
+ <strong>Simuladores Avançados:</strong>
+ 
+<p>O Exceed Experience Park é famoso por suas atrações emocionantes. Ele oferece uma variedade de atividades, desde montanhas-russas até simuladores de alta tecnologia. Os visitantes podem experimentar a adrenalina de passeios emocionantes que proporcionam uma sensação de velocidade e empolgação.</p>
+
+<strong>Simuladores Avançados:</strong>
+
+<p>Uma das características únicas do Exceed é sua coleção de simuladores de última geração. Eles proporcionam experiências imersivas que variam desde corridas de carros até aventuras espaciais. A tecnologia avançada utilizada nesses simuladores cria uma sensação realista que cativa os visitantes.</p>
+
+<strong>Espaços Temáticos:</strong>
+
+<p>O parque é dividido em áreas temáticas, cada uma com sua própria atmosfera e atrações específicas. Isso proporciona aos visitantes uma experiência diversificada, onde podem explorar diferentes mundos e cenários enquanto se divertem.</p>
+
+<strong>Atrações para Toda a Família:</strong>
+
+<p>O Exceed é adequado para todas as idades, tornando-o um ótimo destino para famílias. Há atrações suaves adequadas para crianças, bem como opções mais emocionantes para adolescentes e adultos. Isso significa que todos na família podem desfrutar juntos do parque.</br> </br>
+
+Em resumo, o Exceed Experience Park em Gramado é um destino de entretenimento emocionante que combina tecnologia avançada, diversão em família e uma atmosfera envolvente. Se você está em busca de aventura e diversão durante sua visita a Gramado, este parque é uma escolha popular para explorar.</p>
+
+	<div class="imagem-fixa">
+     <div class="carousel slide" id="carouselExampleSlides" data-bs-ride="carousel" data-bs-interval="3000">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/cc/e4/67/xfood.jpg?w=1200&h=-1&s=1" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/65/bb/ca/playstation-5-com-oculos.jpg?w=900&h=-1&s=1" class="d-block w-100" alt="...">
+        </div>
+      </div>
+     </div>
+    </div>
+    
+    <span class="texto"><a target="_blank" href=https://exceedpark.com.br/>Saber mais sobre o Exceed</a></span>
+	
+  </main>
+    <div id="footer"></div>
+</body>
+</html>

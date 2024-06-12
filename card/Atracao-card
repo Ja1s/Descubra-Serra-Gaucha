@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Descubra a Serra Gaúcha e Suas Principais Atrações Aqui. Contato Via Instagram: @dserragaucha.">
+<meta name="keywords" content="Gramado, serra, gaucha, serra gaucha, turismo, Rio Grande do Sul, guia, descubra serra gaucha, descubra, Gramado RS">
+<meta name="google-adsense-account" content="ca-pub-2086035185741362">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QXKWZ2Z0MM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QXKWZ2Z0MM');
+</script>
+
+<title>Guia Turístico da Serra Gaúcha</title>
+<link rel="stylesheet" href="/css/index-card.css">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(function(){
+            $("#header-card").load("/headerfooter/header-card.html");
+        });
+    </script>
+    <script>
+    $(function(){
+        $("#footer-card").load("/headerfooter/footer-card.html");
+    });
+    </script>
+</head>
+<body>
+    <div id="header-card"></div>
+ <main>
+      <h2>Atrações em Gramado</h2>
+  
+    <div class="cards">
+        <div class="card" style="width: 18rem;">
+      <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel"  data-bs-interval="3000">
+        <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://storage.gramadoinesquecivel.tur.br/8838/imgonline-com-ua-compresstosize-mb6fgpwq67q1oqjpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/23/72/e4/foto-em-hdr-que-fiz-do.jpg?w=1200&h=-1&s=1" class="d-block w-100" alt="...">
+        </div>
+        </div>
+      </div>
+      <div class="card-body">
+        <h5 class="card-title" style="display: flex; justify-content: center;">Lago Negro</h5> <br>
+        <a href="/Atracoes/Lago Negro" class="btn btn-primary" style="display: flex; justify-content: center;">Saiba Mais</a>
+      </div>
+    </div>
+    
+            <div class="card" style="width: 18rem;">
+      <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel"  data-bs-interval="3000">
+        <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://storage.gramadoinesquecivel.tur.br/8567/conversions/imgonline-com-ua-compresstosize-ktkkp3fvsnsmbjpg-thumb.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://malaprontagramado.com.br/wp-content/uploads/2020/04/casa-do-colono-em-gramado.jpg   " class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://blog.vitaboulevard.com.br/wp-content/uploads/2022/12/praca-das-etnias-gramado-rs.jpg" class="d-block w-100" alt="...">
+        </div>
+        </div>
+      </div>
+      <div class="card-body">
+        <h5 class="card-title" style="display: flex; justify-content: center;">Casa do Colono</h5> <br>
+        <a href="/Atracoes/Casa do Colono" class="btn btn-primary" style="display: flex; justify-content: center;">Saiba Mais</a>
+      </div>
+    </div>
+    
+            <div class="card" style="width: 18rem;">
+      <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel"  data-bs-interval="3000">
+        <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://a.travel-assets.com/findyours-php/viewfinder/images/res70/159000/159260-Rio-Grande-Do-Sul-State.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://www.gramadooficial.com.br/wp-content/uploads/2021/09/MG_1542-scaled.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://a.travel-assets.com/findyours-php/viewfinder/images/res70/159000/159258-Rio-Grande-Do-Sul-State.jpg" class="d-block w-100" alt="...">
+        </div>
+        </div>
+      </div>
+      <div class="card-body">
+        <h5 class="card-title" style="display: flex; justify-content: center;">Catedral de Pedra</h5> <br>
+        <a href="/Atracoes/Catedral de Pedra" class="btn btn-primary" style="display: flex; justify-content: center;">Saiba Mais</a>
+      </div>
+    </div>
+    
+            <div class="card" style="width: 18rem;">
+      <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel"  data-bs-interval="3000">
+        <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="/assets/media/Atracao/CDG.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="/assets/media/Atracao/CDG0.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="/assets/media/Atracao/CDG1.jpg" class="d-block w-100" alt="...">
+        </div>
+        </div>
+      </div>
+      <div class="card-body">
+        <h5 class="card-title" style="display: flex; justify-content: center;">Cristais de Gramado</h5> <br>
+        <a href="/Atracoes/Cristais de Gramado" class="btn btn-primary" style="display: flex; justify-content: center;">Saiba Mais</a>
+      </div>
+    </div>
+    
+            <div class="card" style="width: 18rem;">
+      <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel"  data-bs-interval="3000">
+        <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://infantasycare.com/wp-content/uploads/2021/04/Fonte-do-Amor-Eterno.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://imgmd.net/images/v1/guia/1704944/fonte-do-amor-eterno.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://hotelvalledincanto.com/wp-content/uploads/2023/09/Fonte-do-Amor-Eterno-3.jpg" class="d-block w-100" alt="...">
+        </div>
+        </div>
+      </div>
+      <div class="card-body">
+        <h5 class="card-title" style="display: flex; justify-content: center;">Fonte do Amor Eterno</h5> <br>
+        <a href="/Atracoes/Fonte do Amor Eterno" class="btn btn-primary" style="display: flex; justify-content: center;">Saiba Mais</a>
+      </div>
+    </div>
+
+            <div class="card" style="width: 18rem;">
+      <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel"  data-bs-interval="3000">
+        <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://imgmd.net/images/v1/guia/1704872/rua-coberta.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://blog.lacadordeofertas.com.br/wp-content/uploads/2021/08/Rua-Coberta-e1542916986662.jpg" class="d-block w-100" alt="...">
+        </div>
+        </div>
+      </div>
+      <div class="card-body">
+        <h5 class="card-title" style="display: flex; justify-content: center;">Rua Coberta</h5> <br>
+        <a href="/Atracoes/Rua Coberta" class="btn btn-primary" style="display: flex; justify-content: center;">Saiba Mais</a>
+      </div>
+    </div>
+    
+            <div class="card" style="width: 18rem;">
+      <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel"  data-bs-interval="3000">
+        <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/a4/13/20/fachada.jpg?w=1200&h=1200&s=1" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://i.pinimg.com/originals/97/c0/ee/97c0ee53a7fb255226a701ba4187ffc9.jpg" class="d-block w-100" alt="...">
+        </div>
+        </div>
+      </div>
+      <div class="card-body">
+        <h5 class="card-title" style="display: flex; justify-content: center;">Largo da Borges</h5> <br>
+        <a href="/Atracoes/Largo da Borges" class="btn btn-primary" style="display: flex; justify-content: center;">Saiba Mais</a>
+      </div>
+    </div>
+    
+            <div class="card" style="width: 18rem;">
+      <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel"  data-bs-interval="3000">
+        <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://superdicasdeviagem.com.br/wp-content/uploads/2023/05/30058662841_974d61ff60_o-1024x659.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://blog.imobibc.com.br/wp-content/uploads/2022/02/D3aCMzLXoAA62Wu-1024x1024.jpg" class="d-block w-100" alt="...">
+        </div>
+        </div>
+      </div>
+      <div class="card-body">
+        <h5 class="card-title" style="display: flex; justify-content: center;">Rua Torta</h5> <br>
+        <a href="/Atracoes/Rua Torta" class="btn btn-primary" style="display: flex; justify-content: center;">Saiba Mais</a>
+      </div>
+    </div>
+    
+            <div class="card" style="width: 18rem;">
+      <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel"  data-bs-interval="3000">
+        <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/f5/af/f8/palacio-dos-festivais.jpg?w=1200&h=-1&s=1" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://imgmd.net/images/v1/guia/1704942/palacio-dos-festivais.jpg" class="d-block w-100" alt="...">
+        </div>
+        </div>
+      </div>
+      <div class="card-body">
+        <h5 class="card-title" style="display: flex; justify-content: center;">Palácio dos Festivais</h5> <br>
+        <a href="/Atracoes/Palácio dos Festivais" class="btn btn-primary" style="display: flex; justify-content: center;">Saiba Mais</a>
+      </div>
+    </div>
+  </div>
+  
+	<h2>Atrações Próximas</h2>
+    
+      <div class="cards">
+            <div class="card" style="width: 18rem;">
+      <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel"  data-bs-interval="3000">
+        <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://parquesdaserra.com.br/wp-content/uploads/2019/07/IMG_1375.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://parquesdaserra.com.br/wp-content/uploads/2019/07/DSC3060.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://parquesdaserra.com.br/wp-content/uploads/2019/08/DSC0783.jpg" class="d-block w-100" alt="...">
+        </div>
+        </div>
+      </div>
+      <div class="card-body">
+        <h5 class="card-title" style="display: flex; justify-content: center;">Bondinhos Aéreos</h5> <br>
+        <a href="/Atracoes/Bondinhos Aéreos" class="btn btn-primary" style="display: flex; justify-content: center;">Saiba Mais</a>
+      </div>
+    </div>
+    
+            <div class="card" style="width: 18rem;">
+      <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel"  data-bs-interval="3000">
+        <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Catedral_Nossa_Senhora_de_Lourdes.JPG" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://blog.voppi.com.br/wp-content/uploads/2022/11/show-de-luzes-canela-1-1024x683.jpeg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://imgmd.net/images/v1/guia/1704916/catedral-de-pedra.jpg" class="d-block w-100" alt="...">
+        </div>
+        </div>
+      </div>
+      <div class="card-body">
+        <h5 class="card-title" style="display: flex; justify-content: center;">Catedral de Pedra de Canela</h5> <br>
+        <a href="/Atracoes/Catedral de Pedra de Canela" class="btn btn-primary" style="display: flex; justify-content: center;">Saiba Mais</a>
+      </div>
+    </div>
+    
+            <div class="card" style="width: 18rem;">
+      <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel"  data-bs-interval="3000">
+        <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://www.guiadoturismobrasil.com/up/img/1692267666.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/b9/6b/a5/vale-da-ferradura.jpg?w=1200&h=-1&s=1" class="d-block w-100" alt="...">
+        </div>
+        </div>
+      </div>
+      <div class="card-body">
+        <h5 class="card-title" style="display: flex; justify-content: center;">Skyglass</h5> <br>
+        <a href="/Atracoes/Skyglass" class="btn btn-primary" style="display: flex; justify-content: center;">Saiba Mais</a>
+      </div>
+    </div>
+  </div>
+  
+  </main>
+    <div id="footer-card"></div>
+</body>
+</html>

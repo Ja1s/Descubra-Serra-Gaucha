@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Descubra a Serra Gaúcha e Suas Principais Atrações Aqui. Contato Via Instagram: @dserragaucha.">
+<meta name="keywords" content="Gramado, serra, gaucha, serra gaucha, turismo, Rio Grande do Sul, guia, descubra serra gaucha, descubra, Gramado RS, Sky, Skyglass, Sky glass, Passarela">
+<meta name="google-adsense-account" content="ca-pub-2086035185741362">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QXKWZ2Z0MM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QXKWZ2Z0MM');
+</script>
+
+<title>Guia Turístico da Serra Gaúcha</title>
+<link rel="stylesheet" href="/css/index.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(function(){
+            $("#header").load("/headerfooter/header.html");
+        });
+    </script>
+    <script>
+    $(function(){
+        $("#footer").load("/headerfooter/footer.html");
+    });
+    </script>
+</head>
+<body>
+    <div id="header"></div>
+ <main>
+<h2>Skyglass</h2>
+    <p>O SkyGlass é uma das atrações mais emocionantes e deslumbrantes que Gramado tem a oferecer aos visitantes. Localizado na região das serras gaúchas, este incrível mirante proporciona uma experiência única ao permitir que os visitantes apreciem a beleza da natureza em um ambiente seguro e empolgante.</p><br>
+    
+ <strong>Mirante Suspenso de Vidro:</strong>
+    
+<p>O nome "SkyGlass" não poderia ser mais apropriado, pois este mirante oferece uma vista deslumbrante das paisagens circundantes, com seus painéis de vidro transparente que se estendem até o chão. Isso cria a sensação de estar flutuando no ar enquanto se admira a beleza natural das montanhas, vales e florestas.</p>
+
+ <strong>Localização Privilegiada:</strong>
+ 
+<p>O SkyGlass está estrategicamente posicionado nas alturas, oferecendo vistas panorâmicas espetaculares de Gramado e de toda a região. A elevação proporciona um ângulo exclusivo para apreciar o cenário deslumbrante e, em dias claros, é possível avistar pontos de referência distantes.</p>
+
+<strong>Acesso Seguro e Confortável:</strong>
+
+<p>Os visitantes podem acessar o mirante com facilidade por meio de elevadores modernos e bem conservados. Há também uma passarela circundante que permite caminhar pelo mirante e escolher os melhores ângulos para tirar fotos memoráveis.</p>
+
+<strong>Experiência em Todas as Estações:</strong>
+
+<p>O SkyGlass é uma atração que pode ser desfrutada durante todas as estações do ano. No inverno, as paisagens são transformadas em um cenário de conto de fadas, com montanhas cobertas de neve. Na primavera e no verão, a flora exuberante se destaca, enquanto o outono traz uma paleta de cores deslumbrantes.</p>
+<strong>Experiência Inesquecível:</strong>
+<p>
+<li>Verifique os horários de funcionamento do SkyGlass antes de sua visita, pois podem variar dependendo da época do ano e de eventos especiais.</li>
+<li>Certifique-se de trazer sua câmera ou smartphone totalmente carregado, pois as oportunidades de tirar fotos incríveis serão abundantes.</li></p>
+
+<p>O SkyGlass em Gramado é mais do que uma atração turística; é uma aventura para os sentidos que deixa uma impressão duradoura em todos os visitantes. Se você busca uma experiência memorável em meio à natureza deslumbrante das serras gaúchas, este é o lugar perfeito para explorar. </p>
+
+	<div class="imagem-fixa">
+     <div class="carousel slide" id="carouselExampleSlides" data-bs-ride="carousel" data-bs-interval="3000">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://www.guiadoturismobrasil.com/up/img/1692267666.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/b9/6b/a5/vale-da-ferradura.jpg?w=1200&h=-1&s=1" class="d-block w-100" alt="...">
+        </div>
+      </div>
+     </div>
+    </div>
+    
+    <span class="texto"><a target="_blank" href=https://skyglasscanela.com.br/>Saber mais sobre o Skyglass</a></span>
+	
+  </main>
+    <div id="footer"></div>
+</body>
+</html>

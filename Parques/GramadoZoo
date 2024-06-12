@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Descubra a Serra Gaúcha e Suas Principais Atrações Aqui. Contato Via Instagram: @dserragaucha.">
+<meta name="keywords" content="Gramado, serra, gaucha, serra gaucha, turismo, Rio Grande do Sul, guia, descubra serra gaucha, descubra, Gramado RS, Zoologico, Animais, Gramadozoo">
+<meta name="google-adsense-account" content="ca-pub-2086035185741362">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QXKWZ2Z0MM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QXKWZ2Z0MM');
+</script>
+
+<title>Guia Turístico da Serra Gaúcha</title>
+<link rel="stylesheet" href="/css/index.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(function(){
+            $("#header").load("/headerfooter/header.html");
+        });
+    </script>
+    <script>
+    $(function(){
+        $("#footer").load("/headerfooter/footer.html");
+    });
+    </script>
+</head>
+<body>
+    <div id="header"></div>
+ <main>
+<h2>Gramado Zoo</h2>
+    <p>Este zoológico é conhecido por sua ênfase na conservação da fauna brasileira, proporcionando aos visitantes a oportunidade de conhecer de perto animais nativos da fauna brasileira em um ambiente que visa reproduzir as condições naturais de seus habitats.</p><br>
+    
+ <strong>Conservação e Educação:</strong>
+    
+<p>Uma das principais missões do Gramado Zoo é a conservação da fauna brasileira. Eles têm programas de reprodução de espécies em perigo de extinção e se envolvem em pesquisas para entender melhor e proteger a vida selvagem brasileira. Além disso, o zoológico oferece programas educacionais para visitantes de todas as idades, destacando a importância da conservação e da preservação do meio ambiente.</p>
+
+ <strong>Ambiente Natural:</strong>
+ 
+<p>Uma característica notável do Gramado Zoo é o esforço em criar ambientes que se assemelhem aos habitats naturais dos animais. Isso significa que os recintos são projetados para serem espaçosos e oferecerem elementos naturais, como árvores, lagos e cavernas, para que os animais possam se mover e se comportar de maneira mais próxima possível do que fariam na natureza.</p>
+
+<strong>Diversidade de Espécies:</strong>
+
+<p>O zoológico abriga uma diversidade de espécies de animais, incluindo mamíferos, aves, répteis e anfíbios. Entre os animais que você pode encontrar estão onças-pintadas, macacos, araras, tucanos, serpentes e muito mais. A variedade de espécies proporciona uma experiência educacional e emocionante para os visitantes.</p>
+
+<strong>Atividades Interativas:</strong>
+
+<p>Além de observar os animais em seus recintos, o Gramado Zoo oferece atividades interativas, como alimentação de animais sob supervisão, que permitem aos visitantes aprender mais sobre os hábitos alimentares e o comportamento dos animais.</p>
+
+<strong>Consciência Ambiental:</strong>
+
+<p>O Gramado Zoo promove a conscientização ambiental e a importância da conservação da biodiversidade. Eles enfatizam a necessidade de proteger os habitats naturais e as espécies ameaçadas.</br> </br>
+
+O Gramado Zoo oferece uma experiência única para os visitantes, combinando a oportunidade de conhecer a fauna brasileira, aprender sobre conservação e desfrutar da beleza natural da região. É uma atração que combina entretenimento, educação e consciência ambiental, sendo um lugar imperdível para aqueles que desejam explorar a rica biodiversidade do Brasil.</p>
+
+	<div class="imagem-fixa">
+     <div class="carousel slide" id="carouselExampleSlides" data-bs-ride="carousel" data-bs-interval="3000">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/a1/71/db/onca-pintada.jpg?w=1200&h=-1&s=1" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/a1/72/55/arara.jpg?w=1200&h=-1&s=1" class="d-block w-100" alt="...">
+        </div>
+      </div>
+     </div>
+    </div>
+    
+    <span class="texto"><a target="_blank" href=https://gramadozoo.com.br/>Saber mais sobre o Gramado Zoo</a></span>
+	
+  </main>
+    <div id="footer"></div>
+</body>
+</html>

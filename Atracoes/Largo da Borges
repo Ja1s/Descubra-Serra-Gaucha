@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Descubra a Serra Gaúcha e Suas Principais Atrações Aqui. Contato Via Instagram: @dserragaucha.">
+<meta name="keywords" content="Gramado, serra, gaucha, serra gaucha, turismo, Rio Grande do Sul, guia, descubra serra gaucha, descubra, Gramado RS, Largo da Borges, Largo, Borges">
+<meta name="google-adsense-account" content="ca-pub-2086035185741362">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QXKWZ2Z0MM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QXKWZ2Z0MM');
+</script>
+
+<title>Guia Turístico da Serra Gaúcha</title>
+<link rel="stylesheet" href="/css/index.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(function(){
+            $("#header").load("/headerfooter/header.html");
+        });
+    </script>
+    <script>
+    $(function(){
+        $("#footer").load("/headerfooter/footer.html");
+    });
+    </script>
+</head>
+<body>
+    <div id="header"></div>
+ <main>
+<h2>Largo da Borges</h2>
+    <p>O Largo da Borges é um dos lugares mais movimentados e encantadores de Gramado.</p><br>
+    
+ <strong>Largo da Borges: O Coração Comercial e Cultural de Gramado</strong>
+    
+<p>Este espaço multifacetado é uma atração imperdível, servindo como o epicentro tanto das atividades comerciais quanto culturais da cidade.</p>
+
+ <strong>Comércio e Entretenimento:</strong>
+ 
+<p>No Largo da Borges, você encontrará uma grande variedade de lojas, boutiques, restaurantes, cafés e bistrôs, transformando-o em um paraíso para os amantes das compras e da culinária. O calçadão é repleto de vitrines charmosas que exibem artesanato local, moda, joias, souvenires e muito mais. Além disso, você pode explorar lojas que oferecem produtos típicos da região, como chocolates artesanais, vinhos e queijos.<br>
+À noite, o Largo da Borges ganha vida com uma atmosfera vibrante e acolhedora. Músicos de rua, artistas locais e apresentações culturais transformam a praça em um centro de entretenimento. É o lugar perfeito para saborear a deliciosa culinária gaúcha, com seus churrascos suculentos e pratos tradicionais.</p>
+
+<strong>Arquitetura e Charme:</strong>
+
+<p>Além do comércio e da gastronomia, o Largo da Borges se destaca pela sua arquitetura encantadora. As fachadas dos edifícios são inspiradas na arquitetura europeia, com toques de influência alemã e italiana, o que é uma característica marcante em toda a cidade de Gramado.
+
+No centro do largo, uma praça ajardinada proporciona um local agradável para relaxar e absorver a atmosfera única da cidade. O ambiente é frequentemente decorado de acordo com as estações do ano e feriados, adicionando um toque extra de magia à experiência.</p>
+
+<strong>Eventos Especiais:</strong>
+
+<p>O Largo da Borges também é palco de eventos especiais ao longo do ano. Durante o Natal, por exemplo, a praça se transforma em um espetáculo de luzes e decorações natalinas deslumbrantes. A época de Natal em Gramado é famosa em todo o Brasil e atrai visitantes de todas as partes que vêm para testemunhar essa celebração mágica.
+
+Durante os festivais de cinema da cidade, você pode encontrar atividades relacionadas ao cinema acontecendo aqui, desde exibições ao ar livre até encontros com celebridades. O Largo da Borges se torna um local importante para a cultura cinematográfica.</p>
+
+<strong>Local de Encontro e Ponto de Referência:</strong>
+
+<p>Além de todas as suas atrações, o Largo da Borges é um local de encontro para moradores locais e visitantes. É onde as pessoas se reúnem para bater papo, aproveitar um café ou simplesmente apreciar o cenário. Também é um ponto de referência importante em Gramado, facilitando a orientação na cidade.
+
+O Largo da Borges é muito mais do que um centro comercial; é o coração pulsante de Gramado, onde cultura, comércio e entretenimento se unem em uma atmosfera cativante. Uma visita a este lugar encantador é essencial para quem deseja explorar o melhor que Gramado tem a oferecer.</p>
+
+	<div class="imagem-fixa">
+     <div class="carousel slide" id="carouselExampleSlides" data-bs-ride="carousel" data-bs-interval="3000">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/a4/13/20/fachada.jpg?w=1200&h=1200&s=1" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://i.pinimg.com/originals/97/c0/ee/97c0ee53a7fb255226a701ba4187ffc9.jpg" class="d-block w-100" alt="...">
+        </div>
+      </div>
+     </div>
+    </div>
+    
+    <span class="texto"><a target="_blank" href=http://largodaborgesgramado.com.br/>Saber mais sobre o Largo da Borges</a></span>
+	
+  </main>
+    <div id="footer"></div>
+</body>
+</html>

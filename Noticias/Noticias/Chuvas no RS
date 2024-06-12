@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Descubra a Serra Gaúcha e Suas Principais Atrações Aqui. Contato Via Instagram: @dserragaucha.">
+<meta name="keywords" content="Gramado, serra, gaucha, serra gaucha, turismo, Rio Grande do Sul, guia, descubra serra gaucha, descubra, Gramado RS">
+<meta name="google-adsense-account" content="ca-pub-2086035185741362">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QXKWZ2Z0MM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QXKWZ2Z0MM');
+</script>
+
+<title>Guia Turístico da Serra Gaúcha</title>
+<link rel="stylesheet" href="/css/index-card.css">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(function(){
+            $("#header-card").load("/headerfooter/header-card.html");
+        });
+    </script>
+    <script>
+    $(function(){
+        $("#footer-card").load("/headerfooter/footer-card.html");
+    });
+    </script>
+</head>
+<body>
+    <div id="header-card"></div>
+ <main>
+  
+<h2>Chuvas no Rio Grande do Sul</h2>
+<p>Com novo alerta meteorológico, o estado do Rio Grande do Sul se prepara para enfrentar mais um desafio. Além da falta de auxílio adequado e eficiente, não basta somente esperar a água baixar o nível. a limpeza dos pontos atingidos feita por civis está à todo o vapor.</p>
+<p>Mesmo sem chuva na grande Porto Alegre, a água da serra e de outros locais continua descendo para o Guaíba, assim dificultando em uma data para a normalização da região. Com previsão de novas chuvas, não há tempo para a reestruturação e os civis continuam por conta própria a tentar recuperar suas casas ou ajudar seu próximo.</p>
+<p>Não é obrigação de nenhum cidadão ser solidário, porém é isso que nos torna humanos. O momento é desesperador, devastador ou simplesmente indescritível, não é como se todos soubessemos o que viria a acontecer. É tempo de se colocar no lugar do outro, cada um ajuda como pode. O movimento que os cidadãos gaúchos estão formando é algo que nos mostra a mais pura empatia. Uma corrente do bem sendo formada e selada entre cada um, o estado tenta se reerguer mesmo se ajuda do governo, que ameaça aos que tentam mostrar o que realmente acontece.</p>
+<p>Algo nunca visto por essa geração, as fortes chuvas causaram estragos inimaginaveis e perdas incalculáveis. Para quem vê de fora pode pensar que está tudo sob controle. A verdade é que estamos muito longe disso. O sentimento é de abandono, desolador.</p>
+<p>Muitas denúncias continuam sendo feitas contra o atual governo do estado nas redes socias e canais de notícias, como a falta de investimento, a falta de apoio governamental enviando pouquíssimas unidades para auxiliar nos resgates (45 viaturas, 12 embarcações e 5 aeronaves, de acordo com a CNN Brasil), o possível desvio do dinheiro arrecadado pelo governo do estado, alegando que não será utilizado imediatamente e que será gerido por entidade privada, entre outros.</p>
+<p>A serra gaúcha foi bem pouco afetada em comparação às localidades na região metropolitana de Porto Alegre. O aeroporto se mantém fechado até dia 30 de maio podendo ser prolongado. Alguns restaurantes e parques fecharam as portas temporariamente por não haver turistas na cidade de Gramado. A cidade está vazia como na época do Covid-19, com as únicas alternativas sendo o aeroporto de Caxias do Sul ou de Florianópolis.</p>
+<p>Para dúvidas, entre em contato pelo nosso <u><a href="https://instagram.com/dserragaucha/">Instagram</a></u>.</p>
+
+  </main>
+    <div id="footer-card"></div>
+</body>
+</html>

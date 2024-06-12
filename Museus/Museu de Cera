@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Descubra a Serra Gaúcha e Suas Principais Atrações Aqui. Contato Via Instagram: @dserragaucha.">
+<meta name="keywords" content="Gramado, serra, gaucha, serra gaucha, turismo, Rio Grande do Sul, guia, descubra serra gaucha, descubra, Gramado RS, Dreamland, Museu de Cera, Grupo Dreams, Dreams">
+<meta name="google-adsense-account" content="ca-pub-2086035185741362">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QXKWZ2Z0MM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QXKWZ2Z0MM');
+</script>
+
+<title>Guia Turístico da Serra Gaúcha</title>
+<link rel="stylesheet" href="/css/index.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(function(){
+            $("#header").load("/headerfooter/header.html");
+        });
+    </script>
+    <script>
+    $(function(){
+        $("#footer").load("/headerfooter/footer.html");
+    });
+    </script>
+</head>
+<body>
+    <div id="header"></div>
+ <main>
+<h2>Museu de Cera</h2>
+    <p>O Museu de Cera de Gramado é uma das atrações mais cativantes e intrigantes da cidade de Gramado, famosa por seu charme e entretenimento. Este museu é parte de uma rede internacional de museus de cera que apresenta figuras de cera incrivelmente realistas de personalidades famosas e figuras históricas. É uma experiência única que permite aos visitantes ficarem cara a cara com ícones do cinema, política, esporte e história mundial, tudo em um ambiente fascinante e imersivo.</p><br>
+    
+ <strong>Experiência do Visitante:</strong>
+    
+<p>Ao entrar no Museu de Cera de Gramado, os visitantes são imediatamente transportados para um mundo onde celebridades, líderes mundiais e personagens históricos ganham vida em forma de estátuas de cera surpreendentemente realistas. A atenção aos detalhes é impressionante, com cada figura meticulosamente esculpida e pintada à mão para capturar até mesmo os menores traços faciais e nuances de expressão. Os visitantes podem passear pelo museu a seu próprio ritmo, interagindo e tirando fotos com suas figuras favoritas.</p>
+
+ <strong>Personalidades Famosas: </strong>
+ 
+<p>O Museu de Cera de Gramado apresenta uma vasta coleção de personalidades famosas, incluindo estrelas de cinema, músicos, atletas, políticos e muito mais. Você pode esperar encontrar figuras como Albert Einstein, Marilyn Monroe, Elvis Presley, Michael Jackson, Barack Obama e muitos outros.</p>
+
+<strong>Figuras Históricas:</strong>
+
+<p> Além das celebridades contemporâneas, o museu também inclui figuras históricas notáveis. Isso oferece uma oportunidade educacional única para aprender sobre figuras influentes, como Albert Einstein, Abraham Lincoln, Cleópatra e Leonardo da Vinci.</p>
+
+<strong>Cenários Interativos:</strong>
+
+<p>Muitas das figuras de cera estão em cenários interativos que retratam momentos icônicos de filmes, eventos históricos ou cenas da vida das personalidades retratadas. Isso adiciona um toque extra de realismo à experiência.</p>
+
+<strong>Setores Temáticos: </strong>
+
+<p> O museu é frequentemente organizado em setores temáticos, tornando a visita ainda mais envolvente. Por exemplo, pode haver uma seção dedicada ao cinema, à música, à história ou à cultura pop.</p>
+
+<strong>Fascinação para Todas as Idades:</strong>
+
+<p>O Museu de Cera de Gramado é uma atração que agrada a todas as idades. É um local divertido para famílias, onde as crianças podem se maravilhar com as figuras de seus heróis favoritos, enquanto os adultos apreciam a qualidade artística das esculturas de cera. É também uma excelente opção para os amantes da história, proporcionando uma oportunidade única de se aproximar de figuras históricas que moldaram o mundo.<br> <br>
+O Museu de Cera de Gramado oferece uma experiência emocionante e educacional, onde os visitantes podem se perder no mundo das celebridades e da história. É um testemunho da habilidade artística e do detalhamento excepcional que torna as figuras de cera deste museu tão realistas. Se você está em Gramado em busca de entretenimento e cultura, este museu é uma parada obrigatória que garantirá uma experiência memorável e divertida.
+</p>
+
+	<div class="imagem-fixa">
+     <div class="carousel slide" id="carouselExampleSlides" data-bs-ride="carousel" data-bs-interval="3000">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://www.gramadooficial.com.br/wp-content/uploads/2021/11/dreamland-museu-de-cera-gramado-rs-1.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/86/be/18/caption.jpg?w=1200&h=-1&s=1" class="d-block w-100" alt="...">
+        </div>
+      </div>
+     </div>
+    </div>
+    
+    <span class="texto"><a target="_blank" href=https://www.dreamland.com.br/gramado>Saber mais sobre o Museu de Cera</a></span>
+  </main>
+    <div id="footer"></div>
+</body>
+</html>

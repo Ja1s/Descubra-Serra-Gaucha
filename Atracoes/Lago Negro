@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Descubra a Serra Gaúcha e Suas Principais Atrações Aqui. Contato Via Instagram: @dserragaucha.">
+<meta name="keywords" content="Gramado, serra, gaucha, serra gaucha, turismo, Rio Grande do Sul, guia, descubra serra gaucha, descubra, Gramado RS, Lago Negro, Lago">
+<meta name="google-adsense-account" content="ca-pub-2086035185741362">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QXKWZ2Z0MM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QXKWZ2Z0MM');
+</script>
+
+<title>Guia Turístico da Serra Gaúcha</title>
+<link rel="stylesheet" href="/css/index.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(function(){
+            $("#header").load("/headerfooter/header.html");
+        });
+    </script>
+    <script>
+    $(function(){
+        $("#footer").load("/headerfooter/footer.html");
+    });
+    </script>
+</head>
+<body>
+    <div id="header"></div>
+ <main>
+<strong><h2>Lago Negro</h2></strong>
+    <p>O Lago Negro é um dos pontos turísticos mais icônicos de Gramado. É uma atração natural e paisagística de grande beleza.</p>
+    <strong> Localização e Origem:</strong>
+<p>O Lago Negro está situado a cerca de 2,5 km do centro de Gramado, sendo de fácil acesso para os visitantes. Sua origem remonta a 1953, quando Leopoldo Rosenfeldt, um alemão apaixonado por horticultura, comprou uma área degradada com o objetivo de criar um local atraente para moradores e visitantes. Ele plantou árvores exóticas ao redor do lago, especialmente hortênsias, e trouxe troncos de árvores mortas da Floresta Negra da Alemanha, que, após serem submersos na água, deram origem ao nome "Lago Negro".</p>
+
+ <strong>Características Principais:</strong>
+
+<p>Lago e Vegetação: O lago é a peça central da atração, coberto por um grande espelho d'água cercado por densa vegetação. As águas escuras, refletindo o verde das árvores e o céu azul, criam uma paisagem de grande beleza.</p>
+<p>Hortênsias: As hortênsias que circundam o lago estão em pleno florescimento durante a primavera e o verão, proporcionando um espetáculo de cores incrível.</p>
+<p>Trilhas: Existem trilhas pavimentadas que contornam o lago, permitindo aos visitantes caminhar e apreciar a vista de diversos ângulos.</p>
+<p>Passeios de Barco: Pequenos pedalinhos em forma de cisnes estão disponíveis para aluguel, o que permite aos visitantes passear pelo lago de forma tranquila.</p>
+<p>Fauna: A região ao redor do Lago Negro é rica em fauna, e é possível observar patos e peixes nas águas.</p>
+<strong>Atividades e Atrações:</strong>
+
+<p>Piqueniques: Muitos visitantes aproveitam as áreas gramadas próximas ao lago para fazer piqueniques e desfrutar do ambiente natural.</p>
+<p>Fotografia: O Lago Negro é um local popular para fotografia, especialmente devido às suas hortênsias vibrantes e ao cenário pitoresco.</p>
+<p>Eventos Culturais: O local também abriga eventos culturais, como apresentações musicais e exposições de arte em ocasiões especiais.</p>
+  <strong> Época Recomendada para Visita:</strong>
+<p>Embora o Lago Negro seja uma atração maravilhosa o ano todo, a primavera e o verão são os períodos mais recomendados para visitá-lo, quando as hortênsias estão em pleno florescimento e o clima é mais ameno.</p>
+
+<p>O Lago Negro é um lugar de tranquilidade e beleza natural, perfeito para quem deseja relaxar em meio à natureza ou apreciar um ambiente romântico. É uma parada imperdível para quem visita a encantadora cidade de Gramado.</p>
+
+	<div class="imagem-fixa">
+     <div class="carousel slide" id="carouselExampleSlides" data-bs-ride="carousel" data-bs-interval="3000">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://storage.gramadoinesquecivel.tur.br/8838/imgonline-com-ua-compresstosize-mb6fgpwq67q1oqjpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/23/72/e4/foto-em-hdr-que-fiz-do.jpg?w=1200&h=-1&s=1" class="d-block w-100" alt="...">
+        </div>
+        </div>
+      </div>
+     </div>
+    </div>
+    
+    <span class="texto"><a target="_blank" href=https://www.gramadoinesquecivel.tur.br/experiencia/lago-negro>Saber mais sobre o Lago Negro</a></span>
+	
+  </main>
+    <div id="footer"></div>
+    
+</body>
+</html>

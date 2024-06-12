@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Descubra a Serra Gaúcha e Suas Principais Atrações Aqui. Contato Via Instagram: @dserragaucha.">
+<meta name="keywords" content="Gramado, serra, gaucha, serra gaucha, turismo, Rio Grande do Sul, guia, descubra serra gaucha, descubra, Gramado RS, Terra Magica Florybal, Florybal, Chocolate">
+<meta name="google-adsense-account" content="ca-pub-2086035185741362">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QXKWZ2Z0MM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QXKWZ2Z0MM');
+</script>
+
+<title>Guia Turístico da Serra Gaúcha</title>
+<link rel="stylesheet" href="/css/index.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(function(){
+            $("#header").load("/headerfooter/header.html");
+        });
+    </script>
+    <script>
+    $(function(){
+        $("#footer").load("/headerfooter/footer.html");
+    });
+    </script>
+</head>
+<body>
+    <div id="header"></div>
+ <main>
+<h2>Terra Mágica Florybal</h2>
+
+    <p>Entrar na Terra Mágica Florybal é como entrar na imaginação de uma criança e abrir as portas de um reino encantado, onde magos, duendes e fadas dançam em harmonia com dinhossauros e brinquedos, enquanto a imaginação flui sem limites.</p>
+    
+    <p>Nesse parque mágico, sua família mergulhará em cenários naturais fascinantes e se encantará com mais de 43 atrações, como o emocionante Cinema 7D, o vibrante Aerobike, o incrível Voodo Pterodáctilo, a empolgante Tirolesa e o eletrizante Simulador de Montanha-Russa.</p>
+    
+    <p>Destaque para a mágica Casa do Mago, o encantador Jardim da Fada e os pocket shows que, a cada meia hora, transformam o ambiente em um espetáculo de pura magia. No parque Terra Mágica Florybal, a aventura e a diversão  se entrelaçam, fazendo com que todos, sem exceção redescubram a alegria e a leveza de serem crianças novamente!</p>
+    
+   <strong>Reino dos Dinossauros:</strong>
+      
+  <p>Este é um dos pontos altos da Terra Mágica Florybal, onde os visitantes podem explorar réplicas de dinossauros em tamanho real e descobrir fatos fascinantes sobre essas criaturas antigas. É uma experiência educativa e empolgante para toda a família.</p>
+  
+   <strong>Fábrica de Chocolate:</strong>
+   
+  <p>Uma visita à Terra Mágica Florybal não estaria completa sem explorar a Fábrica de Chocolate. Os visitantes têm a oportunidade de aprender sobre o processo de fabricação do chocolate, desde a colheita do cacau até a criação de deliciosos produtos de chocolate artesanal. Além   disso, podem provar uma variedade de chocolates frescos e saborosos.</p>
+  
+  <strong>Mundo Animal:</strong>
+  
+  <p>Este setor da Terra Mágica Florybal é uma celebração da biodiversidade e da fauna do planeta. Os visitantes podem encontrar uma variedade de animais exóticos, incluindo tucanos, araras e outros, em um ambiente que simula a floresta tropical.</p>
+  
+  <strong>Lojas Temáticas: </strong>
+  
+  <p>A Terra Mágica Florybal também abriga lojas temáticas onde os visitantes podem adquirir lembranças, chocolates e produtos relacionados ao parque.</p>
+  
+  <strong>Ambiente Encantador:</strong>
+  
+  <p>A Terra Mágica Florybal é conhecida por seu cenário pitoresco, que combina paisagens exuberantes com a magia de contos de fadas. Os jardins cuidadosamente planejados, riachos e esculturas em meio à natureza criam uma atmosfera de encantamento que convida os visitantes a   explorar, relaxar e se maravilhar.</p>
+  
+  <strong>Compromisso com a Educação:</strong>
+  
+  <p>Além de proporcionar entretenimento e diversão, a Terra Mágica Florybal tem um compromisso com a educação e a conscientização ambiental. Muitas das atrações do parque têm um viés educativo, ajudando os visitantes a aprender mais sobre a natureza, a história e a importância da conservação.<br> <br>
+  
+  A Terra Mágica Florybal é uma experiência memorável que combina diversão e a magia da imaginação. É o destino ideal para famílias, amigos e amantes da natureza que desejam se perder em um mundo de fantasia enquanto exploram a beleza natural da região.</p>
+
+	<div class="imagem-fixa">
+     <div class="carousel slide" id="carouselExampleSlides" data-bs-ride="carousel" data-bs-interval="3000">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="/assets/media/Parque/TMF0.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="/assets/media/Parque/TMF1.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="/assets/media/Parque/TMF2.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="/assets/media/Parque/TMF3.jpg" class="d-block w-100" alt="...">
+        </div>
+      </div>
+     </div>
+    </div>
+    
+    <span class="texto"><a target='_blank' href=https://parqueterramagicaflorybal.com.br/>Saber mais sobre o Terra Mágica Florybal</a></span>
+	
+  </main>
+    <div id="footer"></div>
+</body>
+</html>

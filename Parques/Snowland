@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Descubra a Serra Gaúcha e Suas Principais Atrações Aqui. Contato Via Instagram: @dserragaucha.">
+<meta name="keywords" content="Gramado, serra, gaucha, serra gaucha, turismo, Rio Grande do Sul, guia, descubra serra gaucha, descubra, Gramado RS, Snowland, Neve, Frio">
+<meta name="google-adsense-account" content="ca-pub-2086035185741362">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QXKWZ2Z0MM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QXKWZ2Z0MM');
+</script>
+
+<title>Guia Turístico da Serra Gaúcha</title>
+<link rel="stylesheet" href="/css/index.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(function(){
+            $("#header").load("/headerfooter/header.html");
+        });
+    </script>
+    <script>
+    $(function(){
+        $("#footer").load("/headerfooter/footer.html");
+    });
+    </script>
+</head>
+<body>
+    <div id="header"></div>
+ <main>
+<h2>Snowland</h2>
+    <p>O Snowland é um verdadeiro paraíso de inverno. Este é um destino único nas Américas, proporcionando uma experiência completa de inverno durante o ano inteiro, independente das condições climáticas do lado de fora.</p><br>
+    
+ <strong>Montanha de Neve:</strong>
+    
+<p>O Snowland ostenta uma enorme montanha de neve com mais de 15 mil metros quadrados, onde os visitantes podem aproveitar a sensação autêntica de estar em um ambiente completamente coberto de neve. Aqui, é possível praticar atividades clássicas de inverno, como fazer bonecos de neve e guerras de bola de neve.</p>
+
+ <strong>Pista de Patinação:</strong>
+ 
+<p>A pista de patinação no gelo é um dos destaques do Snowland. Projetada para oferecer diversão a todos, desde iniciantes até experientes patinadores, esta atração proporciona momentos inesquecíveis de deslize sobre o gelo.</p>
+
+<strong>Esqui e Snowboard:</strong>
+
+<p>Para aqueles que desejam experimentar esqui ou snowboard, o Snowland oferece uma pista dedicada e equipamentos modernos, além de instrutores qualificados que auxiliam os visitantes a dominar essas emocionantes modalidades de esportes de inverno.</p>
+
+<strong>Tubing:</strong>
+
+<p>A atividade de tubing é uma descida em boias infláveis por um escorregador de gelo. É uma experiência emocionante para todas as idades, garantindo muitas risadas e adrenalina.</p>
+
+<strong>Café da Neve:</strong>
+
+<p>Depois de se divertir nas atrações geladas, os visitantes podem se aquecer no Café da Neve, onde são servidas deliciosas bebidas quentes, lanches e sobremesas</p>
+
+<strong>Área Kids</strong>
+
+<p>Este espaço foi projetado especialmente para as crianças, com escorregadores, piscinas de bolinhas e outros brinquedos divertidos.</p>
+
+<strong>Cinema 7D:</strong>
+
+<p>O Snowland apresenta um cinema 7D com tecnologia de última geração, proporcionando uma experiência imersiva e interativa, com cadeiras que se movem e efeitos especiais que fazem você se sentir dentro do filme.</p>
+
+<strong>Climatização:</strong>
+
+<p>O ambiente dentro do Snowland é rigorosamente climatizado, mantendo a temperatura sempre abaixo de zero grau Celsius para garantir que a neve e o gelo permaneçam intactos.</p><br> <br>
+
+O Snowland é um destino imperdível para famílias, casais e grupos de amigos em busca de aventura e diversão no inverno. É uma oportunidade única para vivenciar o encanto e a magia do inverno, proporcionando lembranças especiais que durarão para sempre. Seja para praticar esportes de inverno, desfrutar da neve ou simplesmente se divertir em um ambiente mágico, o Snowland tem algo especial para todos os visitantes.</p>
+
+	<div class="imagem-fixa">
+     <div class="carousel slide" id="carouselExampleSlides" data-bs-ride="carousel" data-bs-interval="3000">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://snowland.com.br/media/msg777000-482790.jpg-d9b44204b5e13427278c86ab9ff0ae64-desktop.webp" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://bagagemparadois.com.br/wp-content/uploads/2019/10/SNOWLAND-EM-GRAMADO-TUDO-QUE-VOC%C3%8A-PRECISA-SABER-ANTES-DE-IR-16.jpg" class="d-block w-100" alt="...">
+        </div>
+      </div>
+     </div>
+    </div>
+    
+    <span class="texto"><a target="_blank" href=https://www.snowland.com.br/>Saber mais sobre o Snowland</a></span>
+	
+  </main>
+    <div id="footer"></div>
+</body>
+</html>

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Descubra a Serra Gaúcha e Suas Principais Atrações Aqui. Contato Via Instagram: @dserragaucha.">
+<meta name="keywords" content="Gramado, serra, gaucha, serra gaucha, turismo, Rio Grande do Sul, guia, descubra serra gaucha, descubra, Gramado RS, Super Carros, Carros, Carro, Ferrari, Lamborghini, Dreams">
+<meta name="google-adsense-account" content="ca-pub-2086035185741362">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QXKWZ2Z0MM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QXKWZ2Z0MM');
+</script>
+
+<title>Guia Turístico da Serra Gaúcha</title>
+<link rel="stylesheet" href="/css/index.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(function(){
+            $("#header").load("/headerfooter/header.html");
+        });
+    </script>
+    <script>
+    $(function(){
+        $("#footer").load("/headerfooter/footer.html");
+    });
+    </script>
+</head>
+<body>
+    <div id="header"></div>
+ <main>
+<h2>Super Carros</h2>
+    <p>O Museu Super Carros é uma atração automobilística de renome que oferece aos visitantes uma experiência fascinante no mundo dos supercarros e veículos de luxo.</p><br>
+    
+ <strong>Coleção Exclusiva de Supercarros e Veículos de Prestígio:</strong>
+    
+<p>O museu abriga uma coleção notável de automóveis que são verdadeiras obras-primas da engenharia e do design automotivo. Você encontrará uma variedade deslumbrante de veículos, incluindo os lendários Lamborghinis, Ferraris, Porsches, Aston Martins, Rolls-Royces e muitos outros. Cada carro é meticulosamente mantido e exibido em um ambiente que realça sua beleza e sofisticação.</p>
+
+ <strong>Experiências de Condução de Luxo:</strong>
+ 
+<p>Uma das atrações mais emocionantes do Super Carros é a oportunidade de vivenciar a potência e o desempenho desses supercarros em primeira mão. Os visitantes têm a chance de realizar passeios incríveis pela deslumbrante paisagem da Serra Gaúcha, guiando alguns dos carros mais cobiçados do mundo. A sensação de acelerar um veículo de alto desempenho pelas sinuosas estradas de montanha é inesquecível.</p>
+
+<strong>A História dos Supercarros e Inovações Tecnológicas: </strong>
+
+<p>Além da experiência sensorial, o museu também oferece uma visão aprofundada da história dos supercarros e das inovações tecnológicas que os impulsionam. Exibições informativas destacam os avanços na indústria automobilística, desde os modelos clássicos até os mais recentes desenvolvimentos em tecnologia automotiva.</p>
+
+<strong>Eventos Especiais e Exposições Temáticas:</strong>
+
+<p>O Super Carros regularmente promove eventos especiais e exposições temáticas para manter a experiência dos visitantes sempre dinâmica. Isso inclui apresentações exclusivas de novos modelos de supercarros, eventos de caridade e até mesmo oportunidades para que os visitantes possam testar suas habilidades de direção em um ambiente controlado.</p>
+
+<strong>Um Destino para Entusiastas e Curiosos:</strong>
+
+<p>O Museu Super Carros é uma atração versátil que atrai entusiastas automobilísticos, famílias em busca de entretenimento e qualquer pessoa que aprecie a beleza e o poder dos supercarros. É um lugar onde a paixão pelo automobilismo se encontra com a sofisticação e o luxo, tornando-o um destino obrigatório em Gramado para todos os amantes de carros.</p>
+
+	<div class="imagem-fixa">
+     <div class="carousel slide" id="carouselExampleSlides" data-bs-ride="carousel" data-bs-interval="3000">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://photos.guiapass.com/system/photos/assets/000/004/779/fb_feed/foto_22.jpg?id=EV9MMKYW?id=8E6D86D4&width=1200&height=630" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/5c/4e/9e/caption.jpg?w=1200&h=-1&s=1" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://aventure-se.com/wp-content/uploads/2017/01/super-carros-gramado.jpg" class="d-block w-100" alt="...">
+        </div>
+      </div>
+     </div>
+    </div>
+    
+    <span class="texto"><a target="_blank" href=https://www.supercarros.com.br/>Saber mais sobre o Super Carros</a></span>
+	
+  </main>
+    <div id="footer"></div>
+</body>
+</html>

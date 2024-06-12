@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Descubra a Serra Gaúcha e Suas Principais Atrações Aqui. Contato Via Instagram: @dserragaucha.">
+<meta name="keywords" content="Gramado, serra, gaucha, serra gaucha, turismo, Rio Grande do Sul, guia, descubra serra gaucha, descubra, Gramado RS, Fonte do Amor, Fonte">
+<meta name="google-adsense-account" content="ca-pub-2086035185741362">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QXKWZ2Z0MM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QXKWZ2Z0MM');
+</script>
+
+<title>Guia Turístico da Serra Gaúcha</title>
+<link rel="stylesheet" href="/css/index.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(function(){
+            $("#header").load("/headerfooter/header.html");
+        });
+    </script>
+    <script>
+    $(function(){
+        $("#footer").load("/headerfooter/footer.html");
+    });
+    </script>
+</head>
+<body>
+    <div id="header"></div>
+ <main>
+<h2>Fonte do Amor Eterno</h2>
+    <p>Em meio às pitorescas paisagens da cidade de Gramado, situada na deslumbrante região montanhosa da Serra Gaúcha, encontra-se um local de beleza e simbolismo ímpares - a Fonte do Amor Eterno. Este encantador ponto turístico é mais do que apenas uma atração; é um tributo à eternidade do amor e à magia do compromisso.</p><br>
+    
+ <strong>A Fonte do Amor Eterno: Um Tesouro Romântico em Gramado</strong>
+    
+<p>A Fonte do Amor Eterno é uma representação singular do compromisso e da devoção mútua. O seu conceito é simples, porém profundamente comovente: os casais podem deixar um cadeado simbólico na grade da fonte, eternizando assim seu amor e compromisso um com o outro. Cada cadeado é um testemunho tangível das promessas feitas e dos sentimentos profundos compartilhados.
+
+<p>Esse costume, inspirado na famosa Pont des Arts em Paris, tornou-se um símbolo romântico de Gramado. Os visitantes de todas as partes do mundo vêm aqui para celebrar o amor em sua forma mais pura. A grade da fonte está repleta de cadeados, cada um contando uma história de amor única.</p>
+
+<p>O local em si é encantador. A fonte em si é adornada com esculturas que representam casais apaixonados e anjos, evocando uma sensação de romance no ar. A atmosfera tranquila e serena da Fonte do Amor Eterno é ideal para momentos especiais a dois.</p>
+
+<p>Para além da simbologia dos cadeados, a Fonte do Amor Eterno é um ponto de encontro para casais que desejam renovar seus votos de amor e compromisso. A cada ano, inúmeros casais escolhem esse local especial para celebrar aniversários de casamento e reafirmar seu compromisso mútuo.</p>
+
+<p>Além disso, a fonte é cenário para pedidos de casamento memoráveis. Muitos apaixonados escolhem esse ambiente romântico para fazer a pergunta mais importante de suas vidas, criando memórias que durarão para sempre.</p>
+
+<p>A Fonte do Amor Eterno de Gramado é, portanto, muito mais do que uma atração turística. É um santuário de amor, um tributo à eternidade das emoções e ao poder dos compromissos compartilhados. Seja você um casal apaixonado, um amante da história de amor ou simplesmente alguém que busca um lugar de beleza e serenidade, a Fonte do Amor Eterno é um local mágico que certamente tocará seu coração.</p>
+
+	<div class="imagem-fixa">
+     <div class="carousel slide" id="carouselExampleSlides" data-bs-ride="carousel" data-bs-interval="3000">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://infantasycare.com/wp-content/uploads/2021/04/Fonte-do-Amor-Eterno.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://imgmd.net/images/v1/guia/1704944/fonte-do-amor-eterno.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://hotelvalledincanto.com/wp-content/uploads/2023/09/Fonte-do-Amor-Eterno-3.jpg" class="d-block w-100" alt="...">
+        </div>
+      </div>
+     </div>
+    </div>
+    
+    <span class="texto"><a target="_blank" href=https://www.gramadoinesquecivel.tur.br/experiencia/fonte-do-amor-eterno>Saber mais sobre a Fonte do Amor Eterno</a></span>
+	
+  </main>
+    <div id="footer"></div>
+</body>
+</html>

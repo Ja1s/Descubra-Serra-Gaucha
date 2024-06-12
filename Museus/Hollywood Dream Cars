@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Descubra a Serra Gaúcha e Suas Principais Atrações Aqui. Contato Via Instagram: @dserragaucha.">
+<meta name="keywords" content="Gramado, serra, gaucha, serra gaucha, turismo, Rio Grande do Sul, guia, descubra serra gaucha, descubra, Gramado RS, Hollywood Dream Cars, Grupo Dreams, Hollywood, Dream Cars, Dreams, Carro, Carros">
+<meta name="google-adsense-account" content="ca-pub-2086035185741362">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QXKWZ2Z0MM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QXKWZ2Z0MM');
+</script>
+
+<title>Guia Turístico da Serra Gaúcha</title>
+<link rel="stylesheet" href="/css/index.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(function(){
+            $("#header").load("/headerfooter/header.html");
+        });
+    </script>
+    <script>
+    $(function(){
+        $("#footer").load("/headerfooter/footer.html");
+    });
+    </script>
+</head>
+<body>
+    <div id="header"></div>
+ <main>
+<h2>Hollywood Dream Cars</h2>
+    <p>Um museu de automóveis vintage e clássicos. Este museu é uma atração popular na cidade e oferece aos visitantes a oportunidade de explorar uma coleção única de carros antigos que evocam a nostalgia dos filmes clássicos de Hollywood e de eras passadas.</p><br>
+    
+ <strong>Exposição de Carros Clássicos:</strong>
+    
+<p>O Hollywood Dream Cars abriga uma impressionante coleção de carros clássicos cuidadosamente restaurados e preservados. Os veículos em exibição incluem modelos icônicos das décadas de 1950, 1960 e 1970, muitos dos quais foram destaque em filmes e programas de televisão da época.</p>
+
+ <strong>Nostalgia de Hollywood:</strong>
+ 
+<p>A atmosfera do museu é projetada para recriar a sensação de estar em um cenário de filme clássico de Hollywood. Os carros estão situados em um ambiente elegante e decorado, evocando o glamour e a sofisticação da era de ouro do cinema.</p>
+
+<strong>Variedade de Carros:</strong>
+
+<p>Os visitantes podem admirar uma variedade de veículos, desde carros conversíveis deslumbrantes até elegantes sedãs e muscle cars lendários. Cada carro tem sua própria história e é acompanhado por informações sobre sua origem e relevância histórica.</p>
+
+<strong>Loja de Lembranças:</strong>
+
+<p>Como é comum em muitas atrações turísticas, o Hollywood Dream Cars provavelmente tem uma loja de lembranças onde os visitantes podem adquirir souvenires relacionados a carros e à cultura automobilística.</p>
+
+	<div class="imagem-fixa">
+     <div class="carousel slide" id="carouselExampleSlides" data-bs-ride="carousel" data-bs-interval="3000">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1e/39/a3/94/hollywood.jpg?w=1200&h=-1&s=1" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://www.maxicar.com.br/wp-content/uploads/2015/03/hpllywood_dream-cars.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/ad/f5/53/hollywood-dream-cars.jpg?w=1200&h=-1&s=1" class="d-block w-100" alt="...">
+        </div>
+      </div>
+     </div>
+    </div>
+    
+    <span class="texto"><a target="_blank" href=https://www.hollywooddreamcars.com.br/>Saber mais sobre Hollywood Dream Cars</a></span>
+	
+ </main>
+    <div id="footer"></div>
+</body>
+</html>

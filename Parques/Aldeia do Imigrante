@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Descubra a Serra Gaúcha e Suas Principais Atrações Aqui. Contato Via Instagram: @dserragaucha.">
+<meta name="keywords" content="Gramado, serra, gaucha, serra gaucha, turismo, Rio Grande do Sul, guia, descubra serra gaucha, descubra, Gramado RS, Nova Petropolis, Aldeia do Imigrante">
+<meta name="google-adsense-account" content="ca-pub-2086035185741362">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QXKWZ2Z0MM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QXKWZ2Z0MM');
+</script>
+
+<title>Guia Turístico da Serra Gaúcha</title>
+<link rel="stylesheet" href="/css/index.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(function(){
+            $("#header").load("/headerfooter/header.html");
+        });
+    </script>
+    <script>
+    $(function(){
+        $("#footer").load("/headerfooter/footer.html");
+    });
+    </script>
+</head>
+<body>
+    <div id="header"></div>
+ <main>
+<h2>Aldeia do Imigrante</h2>
+    <p>O Parque Aldeia do Imigrante é um tesouro cultural localizado na cidade de Nova Petrópolis. Este parque é uma celebração vívida e imersiva das tradições e história dos colonos alemães que se estabeleceram nesta região no século 19. É uma atração turística fascinante que oferece uma visão autêntica da vida dos imigrantes germânicos que ajudaram a moldar a cultura do sul do Brasil. </p><br>
+    
+ <strong>Arquitetura e Ambiente:</strong>
+    
+<p>Ao entrar no Parque Aldeia do Imigrante, os visitantes são transportados para o passado. A arquitetura do parque é uma recriação fiel das aldeias rurais alemãs, com casas de enxaimel, igrejas, escolas e outros edifícios tradicionais.</p>
+
+ <strong>Museu Histórico:</strong>
+ 
+<p>O museu no parque oferece uma visão detalhada da história da imigração alemã no Brasil. Os visitantes podem explorar uma vasta coleção de objetos históricos, fotografias e artefatos que contam a jornada dos colonos.</p>
+
+<strong>Artesanato e Cultura:</strong>
+
+<p>Uma das atrações mais encantadoras do parque é a preservação das tradições culturais. Você encontrará artesãos locais produzindo manualmente itens tradicionais, como roupas típicas, cestaria, cerâmica e produtos de marcenaria. Esses produtos estão à venda e são ótimas lembranças.</p>
+
+<strong>Gastronomia Alemã:</strong>
+
+<p>Não deixe de experimentar a deliciosa comida alemã no restaurante do parque. Pratos como salsichas, chucrute, strudel e cucas são preparados seguindo receitas transmitidas de geração em geração.</p>
+
+<strong>Eventos e Festivais:</strong>
+
+<p>O Parque Aldeia do Imigrante é palco de muitos eventos culturais ao longo do ano. O destaque é a "Oktobefest", uma festa da cerveja que celebra as tradições alemãs com música, dança, trajes típicos e, é claro, cerveja alemã.</p>
+
+<strong>Paisagismo Cênico:</strong>
+
+<p>Os jardins do parque são bem cuidados e oferecem uma atmosfera relaxante para os visitantes. Um riacho serpenteia pelo parque, adicionando um toque pitoresco.</p>
+
+<strong>Atividades para a Família:</strong>
+
+<p>O parque é familiar e oferece atividades para todas as idades. As crianças podem se divertir em playgrounds temáticos, enquanto os adultos podem explorar os edifícios históricos.</br> </br>
+
+O Parque Aldeia do Imigrante é uma viagem no tempo que oferece uma experiência autêntica das tradições alemãs e da história da imigração no Brasil. É um local que encanta tanto os entusiastas da cultura quanto os visitantes em busca de beleza e tranquilidade em meio à natureza.</p>
+
+	<div class="imagem-fixa">
+     <div class="carousel slide" id="carouselExampleSlides" data-bs-ride="carousel" data-bs-interval="3000">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/1a/56/11/portico-recepcao.jpg?w=1000&h=-1&s=1" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/1a/54/18/aldeia-historica-retrata.jpg?w=1200&h=-1&s=1" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/5c/89/75/bosque.jpg?w=1100&h=-1&s=1" class="d-block w-100" alt="...">
+        </div>
+      </div>
+     </div>
+    </div>
+    
+    <span class="texto"><a target="_blank" href=https://ingressos.aldeiadoimigrante.com.br/>Saber mais sobre o Parque Aldeia do Imigrante</a></span>
+	
+  </main>
+    <div id="footer"></div>
+</body>
+</html>

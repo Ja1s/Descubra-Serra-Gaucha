@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Descubra a Serra Gaúcha e Suas Principais Atrações Aqui. Contato Via Instagram: @dserragaucha.">
+<meta name="keywords" content="Gramado, serra, gaucha, serra gaucha, turismo, Rio Grande do Sul, guia, descubra serra gaucha, descubra, Gramado RS, Treno, Montanha Russa, Parque de Diversoes, Alpen Park, Canela">
+<meta name="google-adsense-account" content="ca-pub-2086035185741362">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QXKWZ2Z0MM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QXKWZ2Z0MM');
+</script>
+
+<title>Guia Turístico da Serra Gaúcha</title>
+<link rel="stylesheet" href="/css/index.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(function(){
+            $("#header").load("/headerfooter/header.html");
+        });
+    </script>
+    <script>
+    $(function(){
+        $("#footer").load("/headerfooter/footer.html");
+    });
+    </script>
+</head>
+<body>
+    <div id="header"></div>
+ <main>
+<h2>Alpen Park</h2>
+    <p>O Alpen Park é um destino imperdível para quem busca uma combinação emocionante de natureza e entretenimento. Aninhado nas deslumbrantes paisagens da Serra Gaúcha, este parque temático oferece uma variedade de atividades e atrações que prometem diversão para todas as idades, cercadas pela beleza natural exuberante da região.</p><br>
+    
+ <strong>Montanha-Russa:</strong>
+    
+<p>O Alpen Park é famoso por sua montanha-russa que percorre uma trilha sinuosa através das árvores, proporcionando uma adrenalina emocionante e vistas deslumbrantes da paisagem circundante. Esta atração é um destaque para os amantes de emoções fortes.</p>
+
+ <strong>Tirolesa:</strong>
+ 
+<p> Para os mais aventureiros, o parque oferece uma tirolesa que atravessa um vale pitoresco. Deslize pelas alturas e sinta a brisa fresca da montanha enquanto admira a vista panorâmica.</p>
+
+<strong>Arvorismo:</strong>
+
+<p>Teste suas habilidades de equilíbrio e destreza em uma série de trilhas suspensas entre as copas das árvores. Esta atividade é uma ótima maneira de se conectar com a natureza enquanto desafia seus limites.</p>
+
+<strong>Cinema 4D:</strong>
+
+<p>Para uma experiência mais relaxante, o Alpen Park oferece um cinema 4D onde você pode se divertir com filmes imersivos e efeitos especiais que fazem você se sentir parte da ação.</p>
+
+<strong>Mirantes Naturais:</strong>
+
+<p>O parque possui mirantes estrategicamente posicionados que oferecem vistas deslumbrantes das paisagens montanhosas da região. É um ótimo lugar para tirar fotos memoráveis.</p>
+
+<strong>Restaurante e Lojas:</strong>
+
+<p>O Alpen Park também conta com um restaurante onde você pode saborear a gastronomia local e lojas de souvenires para levar lembranças da sua visita.</br> </br>
+
+O Alpen Park oferece uma mistura única de aventura e contato com a natureza, tornando-o um destino ideal para viajantes de todas as idades. Com uma variedade de atividades emocionantes e cenários deslumbrantes, este parque temático é uma escolha perfeita para quem deseja aproveitar ao máximo a beleza natural da Serra Gaúcha e experimentar momentos memoráveis de diversão.</p>
+
+	<div class="imagem-fixa">
+     <div class="carousel slide" id="carouselExampleSlides" data-bs-ride="carousel" data-bs-interval="3000">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/2f/18/e5/alpen-blizzard.jpg?w=1200&h=-1&s=1" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/cc/13/96/alpine-coaster-treno.jpg?w=1000&h=-1&s=1" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/2f/21/02/arvorismo.jpg?w=1000&h=-1&s=1" class="d-block w-100" alt="...">
+        </div>
+      </div>
+     </div>
+    </div>
+    
+    <span class="texto"><a target="_blank" href=https://www.alpenpark.com.br/>Saber mais sobre o Alpen Park</a></span>
+	
+  </main>
+    <div id="footer"></div>
+</body>
+</html>

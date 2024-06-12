@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Descubra a Serra Gaúcha e Suas Principais Atrações Aqui. Contato Via Instagram: @dserragaucha.">
+<meta name="keywords" content="Gramado, serra, gaucha, serra gaucha, turismo, Rio Grande do Sul, guia, descubra serra gaucha, descubra, Gramado RS, Rua Torta, Rua, Torta">
+<meta name="google-adsense-account" content="ca-pub-2086035185741362">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QXKWZ2Z0MM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QXKWZ2Z0MM');
+</script>
+
+<title>Guia Turístico da Serra Gaúcha</title>
+<link rel="stylesheet" href="/css/index.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(function(){
+            $("#header").load("/headerfooter/header.html");
+        });
+    </script>
+    <script>
+    $(function(){
+        $("#footer").load("/headerfooter/footer.html");
+    });
+    </script>
+</head>
+<body>
+    <div id="header"></div>
+ <main>
+<h2>Rua Torta</h2>
+    <p>A Rua Torta, ou "Rua Emílio Sorgetz" como é oficialmente conhecida, é uma das atrações mais peculiares e divertidas de Gramado. Esta rua é uma atração turística única que atrai visitantes de todas as idades.</p><br>
+    
+ <strong>A Rua com um Toque de Arte:</strong>
+    
+<p>A principal característica da Rua Torta é, como o nome sugere, a sua forma tortuosa. A rua serpenteia suavemente, criando curvas inesperadas e ângulos pouco comuns. Ela foi projetada com um toque artístico e parece ter saído de uma obra de arte impressionista.</p>
+
+ <strong>Arquitetura e Paisagismo Criativos:</strong>
+ 
+<p>A rua foi projetada em 1973 pelo arquiteto Eliézer Armani. Seu design criativo e paisagismo cuidadoso fazem dela uma atração única. Os gramados bem cuidados, jardins floridos e árvores complementam a arquitetura peculiar da rua.</p>
+
+<strong>Localização Central:</strong>
+
+<p>A Rua Torta está localizada no centro de Gramado, próxima a outras atrações populares, como a Igreja Matriz São Pedro e a Rua Coberta. Sua localização conveniente a torna de fácil acesso para os turistas que desejam explorar o centro da cidade.</p>
+
+<strong>Fotos e Diversão:</strong>
+
+<p>A Rua Torta é um local perfeito para tirar fotos criativas e se divertir com amigos e familiares. Suas curvas e ângulos únicos criam oportunidades únicas para fotos memoráveis.</p>
+
+	<div class="imagem-fixa">
+     <div class="carousel slide" id="carouselExampleSlides" data-bs-ride="carousel" data-bs-interval="3000">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/12/8d/86/20160117-110216-largejpg.jpg?w=1200&h=-1&s=1" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://blog.imobibc.com.br/wp-content/uploads/2022/02/D3aCMzLXoAA62Wu-1024x1024.jpg" class="d-block w-100" alt="...">
+        </div>
+      </div>
+     </div>
+    </div>
+    
+    <span class="texto"><a target="_blank" href=//www.tripadvisor.com.br/Attraction_Review-g303536-d8317873-Reviews-A_Rua_Torta_de_Gramado-Gramado_State_of_Rio_Grande_do_Sul.html>Saber mais sobre a Rua Torta</a></span>
+  </main>
+    <div id="footer"></div>
+</body>
+</html>

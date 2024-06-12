@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Descubra a Serra Gaúcha e Suas Principais Atrações Aqui. Contato Via Instagram: @dserragaucha.">
+<meta name="keywords" content="Gramado, serra, gaucha, serra gaucha, turismo, Rio Grande do Sul, guia, descubra serra gaucha, descubra, Gramado RS, MUM, Museu da Moda, Moda, Moda Gramado">
+<meta name="google-adsense-account" content="ca-pub-2086035185741362">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QXKWZ2Z0MM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QXKWZ2Z0MM');
+</script>
+
+<title>Guia Turístico da Serra Gaúcha</title>
+<link rel="stylesheet" href="/css/index.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(function(){
+            $("#header").load("/headerfooter/header.html");
+        });
+    </script>
+    <script>
+    $(function(){
+        $("#footer").load("/headerfooter/footer.html");
+    });
+    </script>
+</head>
+<body>
+    <div id="header"></div>
+ <main>
+<h2>Museu da Moda</h2>
+    <p>Localizado em Canela, o Museu da Moda (MUM) é uma atração que celebra a história e a evolução da moda ao longo dos anos. Este museu oferece aos visitantes uma jornada única pelas tendências de moda, desde os trajes tradicionais até as criações contemporâneas.</p><br>
+    
+ <strong>Acervo de Trajes:</strong>
+    
+<p>O MUM apresenta uma coleção diversificada de trajes que abrangem várias épocas e estilos. Os visitantes têm a oportunidade de explorar roupas, acessórios e itens relacionados à moda que marcaram diferentes períodos da história.</p>
+
+ <strong>Exposições Temporárias:</strong>
+ 
+<p>Além de seu acervo permanente, o museu frequentemente hospeda exposições temporárias que destacam designers, movimentos culturais ou temas específicos relacionados à moda.</p>
+
+<strong>Workshops e Eventos:</strong>
+
+<p>O Museu da Moda em Gramado pode oferecer workshops interativos, palestras e eventos especiais relacionados à moda. Isso proporciona uma experiência educativa aos visitantes interessados no mundo da moda.</p>
+
+<strong>Localização Acessível:</strong>
+
+<p>O museu geralmente está localizado em uma área de fácil acesso em Canela, tornando-o conveniente para os turistas que desejam explorar a cultura da moda na região.</p>
+
+
+	<div class="imagem-fixa">
+     <div class="carousel slide" id="carouselExampleSlides" data-bs-ride="carousel" data-bs-interval="3000">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/18/73/d1/museu-da-moda.jpg?w=1200&h=-1&s=1" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://i0.wp.com/turistafulltime.com/wp-content/uploads/2019/10/museu-da-moda-de-canela-rs-lady-di.jpg?resize=900%2C535" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://camilalacerdasite.wordpress.com/wp-content/uploads/2016/07/museu-da-moda-canela-histc3b3ria-bourbon.jpg?w=593&h=395" class="d-block w-100" alt="...">
+        </div>
+      </div>
+     </div>
+    </div>
+    
+    <span class="texto"><a target="_blank" href=http://www.museudamodadecanela.com.br/>Saber mais sobre o Museu da Moda</a></span>
+	
+  </main>
+    <div id="footer"></div>
+</body>
+</html>

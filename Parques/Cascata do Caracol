@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Descubra a Serra Gaúcha e Suas Principais Atrações Aqui. Contato Via Instagram: @dserragaucha.">
+<meta name="keywords" content="Gramado, serra, gaucha, serra gaucha, turismo, Rio Grande do Sul, guia, descubra serra gaucha, descubra, Gramado RS, Cascata, Parque, Cascata do Caracol, Parque do Caracol, Canela">
+<meta name="google-adsense-account" content="ca-pub-2086035185741362">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QXKWZ2Z0MM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QXKWZ2Z0MM');
+</script>
+
+<title>Guia Turístico da Serra Gaúcha</title>
+<link rel="stylesheet" href="/css/index.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(function(){
+            $("#header").load("/headerfooter/header.html");
+        });
+    </script>
+    <script>
+    $(function(){
+        $("#footer").load("/headerfooter/footer.html");
+    });
+    </script>
+</head>
+<body>
+    <div id="header"></div>
+ <main>
+<h2>Cascata do Caracol</h2>
+    <p>A Cascata do Caracol é uma das atrações naturais mais emblemáticas e impressionantes do Brasil. Esta magnífica queda d'água, com seus 131 metros de altura, está situada no Parque Estadual do Caracol, que oferece aos visitantes uma experiência única de imersão na beleza natural intocada.</p><br>
+    
+ <strong>Queda D'água Espetacular:</strong>
+    
+<p>A Cascata do Caracol é uma das maiores e mais impressionantes quedas d'água do Brasil. As águas cristalinas desabam de uma encosta de pedra calcária, criando uma visão espetacular e um som relaxante de fluxo contínuo.</p>
+
+ <strong>Mirantes Panorâmicos:</strong>
+ 
+<p>O parque oferece diversas plataformas e mirantes estrategicamente posicionados que permitem aos visitantes admirar a cascata de ângulos diferentes. Cada mirante oferece vistas deslumbrantes da paisagem circundante, tornando-o um local perfeito para tirar fotos.</p>
+
+<strong>Trilhas e Caminhadas:</strong>
+
+<p>Além de apreciar a cascata, os visitantes têm a oportunidade de explorar as trilhas e caminhos bem cuidados do parque. A caminhada até a base da cascata é uma experiência gratificante e oferece uma vista única de baixo para cima.</p>
+
+<strong>Flora e Fauna:</strong>
+
+<p>A área ao redor da Cascata do Caracol é rica em biodiversidade. Durante uma caminhada pelo parque, os visitantes podem avistar diversas espécies de pássaros, borboletas e até mesmo pequenos mamíferos. A vegetação exuberante e as árvores altas proporcionam sombra e um ambiente fresco e agradável.</p>
+
+<strong>Estrutura de Visitantes:</strong>
+
+<p>O Parque Estadual do Caracol oferece uma infraestrutura completa para os visitantes, incluindo estacionamento, banheiros, lojas de souvenires e áreas para piquenique. É um local que atende a todas as idades, tornando-o perfeito para passeios em família.</br> </br>
+
+A Cascata do Caracol é uma das maravilhas naturais mais icônicas do Brasil, atraindo visitantes de todo o país e do mundo para testemunhar sua beleza impressionante. Se você está em busca de serenidade em meio à natureza, aventura ao ar livre ou simplesmente deseja apreciar um dos tesouros naturais mais impressionantes do Brasil, a Cascata do Caracol é um destino que não pode faltar em sua lista.</p>
+
+	<div class="imagem-fixa">
+     <div class="carousel slide" id="carouselExampleSlides" data-bs-ride="carousel" data-bs-interval="3000">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://www.parquedocaracol.com/wp-content/uploads/2017/11/cascata-do-caracol-vista-da-escadaria.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://www.parquedocaracol.com/wp-content/uploads/2017/11/cascata-do-caracol-vista-do-bondinho.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://www.parquedocaracol.com/wp-content/uploads/2017/11/cascata-do-caracol-vista-do-mirante.jpg" class="d-block w-100" alt="...">
+        </div>
+      </div>
+     </div>
+    </div>
+    
+    <span class="texto"><a target="_blank" href=https://www.parquedocaracol.com/cascata-do-caracol/>Saber mais sobre a Cascata do Caracol</a></span>
+	
+  </main>
+    <div id="footer"></div>
+</body>
+</html>

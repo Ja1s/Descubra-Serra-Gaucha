@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Descubra a Serra Gaúcha e Suas Principais Atrações Aqui. Contato Via Instagram: @dserragaucha.">
+<meta name="keywords" content="Gramado, serra, gaucha, serra gaucha, turismo, Rio Grande do Sul, guia, descubra serra gaucha, descubra, Gramado RS, Colono, Casa do Colono">
+<meta name="google-adsense-account" content="ca-pub-2086035185741362">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QXKWZ2Z0MM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QXKWZ2Z0MM');
+</script>
+
+<title>Guia Turístico da Serra Gaúcha</title>
+<link rel="stylesheet" href="/css/index.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(function(){
+            $("#header").load("/headerfooter/header.html");
+        });
+    </script>
+    <script>
+    $(function(){
+        $("#footer").load("/headerfooter/footer.html");
+    });
+    </script>
+</head>
+<body>
+    <div id="header"></div>
+ <main>
+<h2>Casa do Colono</h2>
+    <p>A Casa do Colono em Gramado é um tesouro vivo que nos leva de volta no tempo, proporcionando uma visão encantadora do modo de vida dos colonos que desbravaram essa região. </p><br>
+    
+ <strong>A Magia da Casa do Colono em Gramado</strong>
+    
+<p>Imagine-se em uma época onde a simplicidade era a essência da vida, onde a natureza era a vizinha mais próxima e onde o trabalho árduo e a hospitalidade eram valores inabaláveis. É nesse mundo encantado que a Casa do Colono em Gramado nos recebe.</p>
+
+<p>Localizada na pitoresca cidade de Gramado, na Serra Gaúcha do Brasil, a Casa do Colono é mais do que um edifício histórico; é uma janela para o passado, um tributo à determinação e à cultura dos colonos alemães e italianos que ajudaram a moldar essa região.</p>
+
+<p>Construída com madeira nobre e cercada por um jardim repleto de flores e vegetação exuberante, a casa é um exemplo de arquitetura tradicional. Seu telhado íngreme é um lembrete das estações do ano e das intempéries que os colonos enfrentavam.</p>
+
+<p>Assim que você cruza a soleira da Casa do Colono, é transportado para uma época passada. Os cômodos são decorados com móveis antigos e utensílios domésticos que contam histórias de gerações passadas. O cheiro de pão caseiro e biscoitos recém-assados paira no ar, convidando-o a saborear os sabores autênticos da culinária colonial.</p>
+
+<p>A hospitalidade dos anfitriões da Casa do Colono é calorosa e acolhedora, exatamente como era na época em que receber visitantes era uma honra e um privilégio. Eles compartilham contos de suas raízes, das tradições que mantiveram vivas e do profundo respeito pela terra que cultivaram.</p>
+
+<p>À medida que você explora os cômodos, descobre ferramentas agrícolas antigas e instrumentos musicais que evocam memórias de festas animadas e celebrações comunitárias. O som de músicas folclóricas ecoa suavemente, convidando-o a dançar ao ritmo da história.</p>
+
+<p>A Casa do Colono em Gramado é uma experiência mágica, um portal que conecta gerações e culturas. É um lembrete de que, mesmo em nosso mundo moderno e agitado, as raízes da comunidade, da simplicidade e da gratidão continuam a prosperar.</p>
+
+<p>Visitar a Casa do Colono é como encontrar velhos amigos e ouvir suas histórias de vida. É uma reverência à coragem e ao espírito destemido dos colonos, e uma celebração da riqueza que a cultura deles trouxe a esta encantadora cidade nas colinas.</p>
+
+<p>Então, venha, faça uma pausa na agitação da vida cotidiana e faça uma viagem no tempo para a Casa do Colono em Gramado. Deixe-se envolver pelo passado, inspire-se no presente e crie memórias para o futuro. Porque, neste canto especial do mundo, a história e a hospitalidade estão sempre de braços abertos, esperando por você.</p>
+
+	<div class="imagem-fixa">
+     <div class="carousel slide" id="carouselExampleSlides" data-bs-ride="carousel" data-bs-interval="3000">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://storage.gramadoinesquecivel.tur.br/8567/conversions/imgonline-com-ua-compresstosize-ktkkp3fvsnsmbjpg-thumb.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://malaprontagramado.com.br/wp-content/uploads/2020/04/casa-do-colono-em-gramado.jpg   " class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://blog.vitaboulevard.com.br/wp-content/uploads/2022/12/praca-das-etnias-gramado-rs.jpg" class="d-block w-100" alt="...">
+        </div>
+      </div>
+     </div>
+    </div>
+    
+    <span class="texto"><a target="_blank" href=https://www.gramadoinesquecivel.tur.br/experiencia/praca-das-etnias-casa-do-colono>Saber mais sobre a Casa do Colono</a></span>
+	
+   </main>
+    <div id="footer"></div>
+</body>
+</html>

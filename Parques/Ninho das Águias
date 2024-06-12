@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Descubra a Serra Gaúcha e Suas Principais Atrações Aqui. Contato Via Instagram: @dserragaucha.">
+<meta name="keywords" content="Gramado, serra, gaucha, serra gaucha, turismo, Rio Grande do Sul, guia, descubra serra gaucha, descubra, Gramado RS, Ninho das Aguias, Nova Petropolis, Por do Sol, Panoramico">
+<meta name="google-adsense-account" content="ca-pub-2086035185741362">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QXKWZ2Z0MM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QXKWZ2Z0MM');
+</script>
+
+<title>Guia Turístico da Serra Gaúcha</title>
+<link rel="stylesheet" href="/css/index.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(function(){
+            $("#header").load("/headerfooter/header.html");
+        });
+    </script>
+    <script>
+    $(function(){
+        $("#footer").load("/headerfooter/footer.html");
+    });
+    </script>
+</head>
+<body>
+    <div id="header"></div>
+ <main>
+<h2>Ninho das Águias</h2>
+    <p>O Ninho das Águias é um mirante espetacular localizado na cidade de Nova Petrópolis. Este local é conhecido por oferecer uma vista panorâmica deslumbrante das paisagens montanhosas da região e é uma das atrações turísticas mais populares da área.</p><br>
+    
+ <strong>Localização Naturalmente Privilegiada:</strong>
+    
+<p>O Ninho das Águias está situado em uma elevação considerável, proporcionando uma vista privilegiada das montanhas, vales e matas da região. A altitude elevada em que se encontra oferece uma visão desimpedida e abrangente da paisagem circundante.</p>
+
+ <strong>Vista Panorâmica Espetacular:</strong>
+ 
+<p>A principal atração do Ninho das Águias é a vista panorâmica de tirar o fôlego que se estende por quilômetros. Os visitantes podem admirar a beleza natural das montanhas da Serra Gaúcha, os vales verdejantes e as cidades pitorescas que pontuam a paisagem. A vista é especialmente espetacular durante o pôr do sol, quando as cores do céu se misturam com o cenário montanhoso.</p>
+
+<strong>Estrutura de Mirante:</strong>
+
+<p>Para a comodidade dos visitantes, o local possui uma estrutura de mirante com passarelas, decks de observação e áreas de descanso. Isso permite que os visitantes apreciem a vista com conforto e tirem fotografias incríveis.</p>
+
+<strong>Experiência em Todas as Estações:</strong>
+
+<p>O Ninho das Águias é um destino agradável durante todas as estações do ano. Na primavera e no verão, a paisagem é coberta de verde e flores silvestres, enquanto no outono as folhas das árvores adquirem cores vibrantes. No inverno, há a possibilidade de encontrar neve na região, criando uma paisagem completamente diferente e encantadora.</p>
+
+<strong>Atividades ao Ar Livre:</strong>
+
+<p>Além de apreciar a vista, os visitantes podem aproveitar para fazer piqueniques, caminhadas e trilhas nas proximidades. A área é propícia para o contato com a natureza e proporciona uma atmosfera de serenidade.</p>
+
+<strong>Acesso Cênico:</strong>
+
+<p>O acesso ao Ninho das Águias geralmente envolve uma estrada sinuosa que serpenteia pelas montanhas. O próprio trajeto até o mirante é cênico e oferece vistas prévias das belezas naturais da região.</p>
+
+<strong>Ponto Turístico Fotogênico:</strong>
+
+<p>Fotógrafos amadores e profissionais frequentemente visitam o Ninho das Águias em busca de imagens espetaculares. A luz natural variada ao longo do dia e as mudanças sazonais na paisagem tornam este local um paraíso para a fotografia.<br> <br>
+
+O Ninho das Águias é um mirante excepcionalmente bonito que oferece uma experiência visual deslumbrante da paisagem montanhosa da região de Nova Petrópolis. Seja para apreciar a vista panorâmica, relaxar em meio à natureza ou capturar fotos incríveis, este é um destino imperdível para os amantes da natureza e da beleza natural.</p>
+
+	<div class="imagem-fixa">
+     <div class="carousel slide" id="carouselExampleSlides" data-bs-ride="carousel" data-bs-interval="3000">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/96/2b/8e/vista.jpg?w=1200&h=-1&s=1" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/43/3f/54/photo0jpg.jpg?w=1200&h=-1&s=1" class="d-block w-100" alt="...">
+        </div>
+      </div>
+     </div>
+    </div>
+    
+    <span class="texto"><a target="_blank" href=https://parqueninhodasaguias.com.br/>Saber mais sobre o Ninho das Águias</a></span>
+	
+  </main>
+    <div id="footer"></div>
+</body>
+</html>

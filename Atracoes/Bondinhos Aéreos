@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Descubra a Serra Gaúcha e Suas Principais Atrações Aqui. Contato Via Instagram: @dserragaucha.">
+<meta name="keywords" content="Gramado, serra, gaucha, serra gaucha, turismo, Rio Grande do Sul, guia, descubra serra gaucha, descubra, Gramado RS, Bondinhos, Bondinhos Aereos, Canela">
+<meta name="google-adsense-account" content="ca-pub-2086035185741362">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QXKWZ2Z0MM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QXKWZ2Z0MM');
+</script>
+
+<title>Guia Turístico da Serra Gaúcha</title>
+<link rel="stylesheet" href="/css/index.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(function(){
+            $("#header").load("/headerfooter/header.html");
+        });
+    </script>
+    <script>
+    $(function(){
+        $("#footer").load("/headerfooter/footer.html");
+    });
+    </script>
+</head>
+<body>
+    <div id="header"></div>
+ <main>
+<h2>Bondinhos Aéreos</h2>
+    <p>Os Bondinhos Aéreos de Canela são uma atração turística popular localizada na cidade de Canela, no Rio Grande do Sul, Brasil. Essa atração oferece uma experiência única aos visitantes, proporcionando vistas panorâmicas deslumbrantes da paisagem natural da região.</p><br>
+    
+ <strong> Localização e Acesso:</strong>
+    
+<p>Os Bondinhos Aéreos de Canela estão situados na Serra Gaúcha, uma região montanhosa conhecida por sua beleza natural e clima agradável.</p>
+<p>O local exato é o Parque da Serra, que também abriga o Parque Estadual do Caracol, famoso pela Cascata do Caracol, outra atração icônica da região.</p>
+<p>A partir do centro de Canela, os visitantes podem chegar facilmente de carro ou transporte público, tornando os bondinhos facilmente acessíveis.</p>
+
+ <strong>A Experiência dos Bondinhos Aéreos:</strong>
+
+<p>Os visitantes embarcam em bondinhos aéreos que percorrem um sistema de cabos estendido sobre a exuberante paisagem da Serra Gaúcha.</p>
+<p>Os bondinhos são fechados e oferecem conforto e segurança aos passageiros, mesmo durante condições climáticas adversas.</p>
+
+ <strong>Vistas Panorâmicas:</strong>
+
+<p>Enquanto os bondinhos sobem suavemente, os passageiros desfrutam de vistas panorâmicas deslumbrantes da região.</p>
+<p>É possível observar a vastidão das florestas verdes, os vales, os riachos, bem como a majestosa Cascata do Caracol em toda a sua glória.</p>
+<p>A vista é particularmente espetacular durante o outono, quando as árvores se transformam em uma paleta de cores quentes.</p>
+
+ <strong>Cascata do Caracol:</strong>
+  
+<p>Um dos destaques da viagem de bondinho é a vista privilegiada da Cascata do Caracol.</p>
+
+<p>Essa cachoeira tem aproximadamente 131 metros de altura e é cercada por uma vegetação exuberante. É uma das mais famosas do Brasil.</p>
+
+ <strong>Passeio Educativo:</strong>
+ 
+ <p>Durante o passeio de bondinho, os visitantes também podem aprender sobre a fauna, flora e história da região por meio de placas informativas e áudio-guias disponíveis.</p>
+ 
+ <strong>Estrutura e Infraestrutura:</strong>
+ 
+ <p>O Parque da Serra, onde os Bondinhos Aéreos estão localizados, possui uma infraestrutura bem desenvolvida.</p>
+ <p>Existem áreas de estacionamento, lojas de souvenires, restaurantes e locais para piquenique, tornando-o um destino adequado para famílias e turistas de todas as idades.</p>
+ 
+ <strong>Atrações Adjacentes:</strong>
+ 
+ <p>Além dos Bondinhos Aéreos e da Cascata do Caracol, os visitantes podem explorar trilhas para caminhadas, visitar o Parque Estadual do Caracol e desfrutar de outras atividades ao ar livre na região.</p>
+ 
+	<div class="imagem-fixa">
+     <div class="carousel slide" id="carouselExampleSlides" data-bs-ride="carousel" data-bs-interval="3000">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://parquesdaserra.com.br/wp-content/uploads/2019/07/IMG_1375.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://parquesdaserra.com.br/wp-content/uploads/2019/07/DSC3060.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://parquesdaserra.com.br/wp-content/uploads/2019/08/DSC0783.jpg" class="d-block w-100" alt="...">
+        </div>
+      </div>
+     </div>
+    </div>
+    
+    <span class="texto"><a target="_blank" href=https://parquesdaserra.com.br/>Saber mais sobre os Bondinhos Aéreos</a></span>
+	
+  </main>
+    <div id="footer"></div>
+</body>
+</html>

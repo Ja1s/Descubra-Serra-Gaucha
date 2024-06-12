@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Descubra a Serra Gaúcha e Suas Principais Atrações Aqui. Contato Via Instagram: @dserragaucha.">
+<meta name="keywords" content="Gramado, serra, gaucha, serra gaucha, turismo, Rio Grande do Sul, guia, descubra serra gaucha, descubra, Gramado RS, Palacios dos Festivais, Palacio, Festivais, Festival">
+<meta name="google-adsense-account" content="ca-pub-2086035185741362">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QXKWZ2Z0MM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QXKWZ2Z0MM');
+</script>
+
+<title>Guia Turístico da Serra Gaúcha</title>
+<link rel="stylesheet" href="/css/index.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(function(){
+            $("#header").load("/headerfooter/header.html");
+        });
+    </script>
+    <script>
+    $(function(){
+        $("#footer").load("/headerfooter/footer.html");
+    });
+    </script>
+</head>
+<body>
+    <div id="header"></div>
+ <main>
+<h2>Palácio dos Festivais</h2>
+    <p>O Palácio dos Festivais é um ícone cultural e arquitetônico de Gramado. Este elegante edifício é famoso por sediar o Festival de Cinema de Gramado, um dos eventos cinematográficos mais prestigiosos da América Latina.</p><br>
+    
+ <strong>História e Significado Cultural:</strong>
+    
+<p>O Palácio dos Festivais foi inaugurado em 1973 e desde então tem sido o centro das atenções durante o Festival de Cinema de Gramado, que começou em 1973 e cresceu em prestígio ao longo dos anos. Este festival é um importante evento na indústria cinematográfica, celebrando produções latino-americanas e atraindo cineastas, atores e cinéfilos de todo o mundo.</p>
+
+ <strong>Arquitetura Distinta:</strong>
+ 
+<p>O edifício do Palácio dos Festivais apresenta uma arquitetura elegante e imponente. Com sua fachada clássica e estilo neocolonial, ele se destaca como um marco visualmente impressionante na cidade. As noites de gala e as cerimônias de premiação realizadas aqui adicionam ainda mais charme ao local.</p>
+
+<strong>Festival de Cinema de Gramado:</strong>
+
+<p>O Festival de Cinema de Gramado é o evento mais famoso realizado no Palácio dos Festivais. Durante o festival, o edifício abriga a exibição de filmes, competições e cerimônias de premiação. Os troféus Kikitos são concedidos aos melhores filmes, diretores, atores e outros profissionais da indústria cinematográfica, tornando-se um reconhecimento altamente cobiçado na América Latina.</p>
+
+<strong>Cenário de Celebridades:</strong>
+
+<p>Durante o festival, o Palácio dos Festivais se torna um local onde celebridades do cinema e do entretenimento se reúnem. É comum ver atores, diretores e produtores renomados desfilando pelo tapete vermelho e interagindo com o público.</p>
+
+<strong>Tapete Vermelho e Fãs de Cinema:</strong>
+
+<p>Embora o Festival de Cinema de Gramado seja o evento mais notável, o Palácio dos Festivais continua sendo um local importante para a cultura e o entretenimento durante todo o ano. Apresentações teatrais, musicais e outros eventos culturais também são realizados aqui, enriquecendo a vida cultural da cidade.</p>
+
+<strong>Um Símbolo de Gramado:</strong>
+
+<p>Além de seu papel no cinema e na cultura, o Palácio dos Festivais é um símbolo de Gramado e um local de orgulho para os moradores locais. Sua presença majestosa no coração da cidade é uma lembrança constante do compromisso de Gramado com a cultura e as artes.</p>
+
+<strong>Cultura e Entretenimento Continuam:</strong>
+
+<p>Embora o Festival de Cinema de Gramado seja o evento mais notável, o Palácio dos Festivais continua sendo um local importante para a cultura e o entretenimento durante todo o ano. Apresentações teatrais, musicais e outros eventos culturais também são realizados aqui, enriquecendo a vida cultural da cidade.</p>
+
+<p>O Palácio dos Festivais é muito mais do que um edifício; é o epicentro da cultura cinematográfica na América Latina e um símbolo do amor de Gramado pelo cinema e pela arte. Uma visita a este local durante o Festival de Cinema de Gramado é uma experiência única e emocionante que conecta visitantes ao mundo do cinema e à rica cultura desta encantadora cidade.</p>
+
+	<div class="imagem-fixa">
+     <div class="carousel slide" id="carouselExampleSlides" data-bs-ride="carousel" data-bs-interval="3000">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/f5/af/f8/palacio-dos-festivais.jpg?w=1200&h=-1&s=1" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://imgmd.net/images/v1/guia/1704942/palacio-dos-festivais.jpg" class="d-block w-100" alt="...">
+        </div>
+      </div>
+     </div>
+    </div>
+    
+    <span class="texto"><a target="_blank" href=https://www.tripadvisor.com.br/Attraction_Review-g303536-d312309-Reviews-Palace_of_Festivals-Gramado_State_of_Rio_Grande_do_Sul.html>Saber mais sobre o Palácio dos Festivais</a></span>
+	
+  </main>
+    <div id="footer"></div>
+</body>
+</html>

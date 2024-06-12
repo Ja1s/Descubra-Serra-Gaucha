@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Descubra a Serra Gaúcha e Suas Principais Atrações Aqui. Contato Via Instagram: @dserragaucha.">
+<meta name="keywords" content="Gramado, serra, gaucha, serra gaucha, turismo, Rio Grande do Sul, guia, descubra serra gaucha, descubra, Gramado RS, Rua, Coberta, Rua Coberta">
+<meta name="google-adsense-account" content="ca-pub-2086035185741362">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QXKWZ2Z0MM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QXKWZ2Z0MM');
+</script>
+
+<title>Guia Turístico da Serra Gaúcha</title>
+<link rel="stylesheet" href="/css/index.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(function(){
+            $("#header").load("/headerfooter/header.html");
+        });
+    </script>
+    <script>
+    $(function(){
+        $("#footer").load("/headerfooter/footer.html");
+    });
+    </script>
+</head>
+<body>
+    <div id="header"></div>
+ <main>
+<h2>Rua Coberta</h2>
+    <p>A Rua Coberta é um dos pontos turísticos mais emblemáticos e adorados da cidade. Esta pitoresca passagem coberta é um local que cativa visitantes com seu charme arquitetônico e atmosfera aconchegante.</p><br>
+    
+ <strong>Arquitetura Encantadora:</strong>
+    
+<p>A Rua Coberta é conhecida por sua arquitetura encantadora. O principal destaque é o teto em estilo enxaimel, típico da região da Baviera, na Alemanha, que lembra as vilas europeias de contos de fadas. Esse teto coberto protege a passagem de chuva e sol, permitindo que os visitantes desfrutem da rua em qualquer clima.</p>
+
+ <strong>Localização Central:</strong>
+ 
+<p>A Rua Coberta está localizada no coração de Gramado, próxima a várias atrações, lojas, restaurantes e hotéis. Sua localização central a torna facilmente acessível e um ponto de partida ideal para explorar a cidade.</p>
+
+<strong>Comércio e Gastronomia:</strong>
+
+<p>A passagem abriga uma variedade de lojas encantadoras que vendem desde produtos de artesanato local até roupas e souvenires. Além disso, você encontrará restaurantes e cafés aconchegantes que servem pratos locais deliciosos e bebidas quentes. É o local perfeito para fazer compras, comer bem e relaxar.</p>
+
+<strong>Eventos e Atividades:</strong>
+
+<p>A Rua Coberta é palco de diversos eventos ao longo do ano, como apresentações de música ao vivo, exposições de arte e feiras sazonais. Durante as festas de Natal, por exemplo, a rua se enche de luzes e decorações festivas, criando um ambiente mágico.</p>
+
+<strong>Ambiente Acolhedor:</strong>
+
+<p>Uma das características mais marcantes da Rua Coberta é sua atmosfera acolhedora. As mesas com guarda-chuvas, as luzes suaves e o som de músicos locais tocando ao vivo criam um ambiente charmoso e relaxante. É o local perfeito para um passeio tranquilo ou uma refeição romântica.</p>
+
+<strong>Cultura e Tradição:</strong>
+
+<p>A Rua Coberta reflete a rica herança cultural de Gramado, que tem fortes influências europeias. Muitas das lojas e restaurantes destacam a cultura local, oferecendo produtos e pratos tradicionais da região.</p>
+
+<strong>Ponto de Encontro:</strong>
+
+<p>Além de ser um destino turístico, a Rua Coberta é um ponto de encontro popular para moradores e visitantes. É um lugar onde as pessoas se reúnem para desfrutar da companhia umas das outras e absorver a atmosfera única.</p>
+
+<p>A Rua Coberta de Gramado é um tesouro arquitetônico e cultural que representa o charme e a hospitalidade desta cidade encantadora. Seja para fazer compras, apreciar a gastronomia local ou simplesmente absorver a atmosfera relaxante, uma visita à Rua Coberta é uma experiência imperdível para quem visita Gramado e deseja explorar sua cultura e beleza.</p>
+
+	<div class="imagem-fixa">
+     <div class="carousel slide" id="carouselExampleSlides" data-bs-ride="carousel" data-bs-interval="3000">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://imgmd.net/images/v1/guia/1704872/rua-coberta.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://blog.lacadordeofertas.com.br/wp-content/uploads/2021/08/Rua-Coberta-e1542916986662.jpg" class="d-block w-100" alt="...">
+        </div>
+      </div>
+     </div>
+    </div>
+    
+    <span class="texto"><a target="_blank" href=https://www.gramadoinesquecivel.tur.br/experiencia/rua-coberta>Saber mais sobre a Rua Coberta</a></span>
+	
+  </main>
+    <div id="footer"></div>
+</body>
+</html>

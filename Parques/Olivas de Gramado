@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Descubra a Serra Gaúcha e Suas Principais Atrações Aqui. Contato Via Instagram: @dserragaucha.">
+<meta name="keywords" content="Gramado, serra, gaucha, serra gaucha, turismo, Rio Grande do Sul, guia, descubra serra gaucha, descubra, Gramado RS, Olivas, Olivas de Gramado, Por do Sol, Azeite, Vista, Panoramica">
+<meta name="google-adsense-account" content="ca-pub-2086035185741362">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QXKWZ2Z0MM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QXKWZ2Z0MM');
+</script>
+
+<title>Guia Turístico da Serra Gaúcha</title>
+<link rel="stylesheet" href="/css/index.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(function(){
+            $("#header").load("/headerfooter/header.html");
+        });
+    </script>
+    <script>
+    $(function(){
+        $("#footer").load("/headerfooter/footer.html");
+    });
+    </script>
+</head>
+<body>
+    <div id="header"></div>
+ <main>
+<h2>Olivas de Gramado</h2>
+    <p>O Parque Olivas de Gramado é um parque é especialmente conhecido por seu cultivo de oliveiras e pela produção de azeite de oliva artesanal.</p><br>
+    
+ <strong>Cultivo de Oliveiras:</strong>
+    
+<p>O Parque Olivas de Gramado se destaca por ser uma das poucas áreas no Brasil dedicadas ao cultivo de oliveiras. As oliveiras são árvores centenárias que produzem as famosas azeitonas, das quais é feito o azeite de oliva. Os visitantes têm a oportunidade de explorar os olivais, observar as oliveiras e aprender sobre o processo de cultivo.</p>
+
+ <strong>Produção de Azeite de Oliva Artesanal:</strong>
+ 
+<p>Uma das principais atrações do parque é a produção de azeite de oliva artesanal. Os visitantes podem conhecer o processo de extração do azeite, desde a colheita das azeitonas até a prensagem e engarrafamento. Há degustações de azeite de oliva, permitindo aos visitantes apreciar os diferentes sabores e aromas das variedades de azeitonas produzidas no parque.</p>
+
+<strong>Restaurante e Loja de Produtos:</strong>
+
+<p>O Parque Olivas de Gramado conta com um restaurante que oferece pratos e iguarias preparados com azeite de oliva produzido no local. Além disso, há uma loja onde os visitantes podem comprar produtos relacionados a azeite de oliva, incluindo garrafas de azeite, temperos, cosméticos e lembranças.</p>
+
+<strong>Trilhas e Natureza:</strong>
+
+<p>Além das oliveiras e das instalações relacionadas à produção de azeite, o parque possui trilhas e áreas verdes que convidam os visitantes a explorar a natureza local. Isso cria um ambiente tranquilo e relaxante, ideal para passeios a pé e momentos de contemplação.</p>
+
+<strong>Cultura Gaúcha e Italiana:</strong>
+
+<p>A presença das oliveiras e da produção de azeite de oliva também destaca a influência da cultura italiana na região. A cultura gaúcha e italiana se entrelaçam no parque, criando uma atmosfera única que reflete a herança histórica da região.</p>
+
+<strong>Atividades e Eventos:</strong>
+
+<p>O Parque Olivas de Gramado oferece uma variedade de atividades ao longo do ano. Isso inclui eventos sazonais, workshops e cursos relacionados à gastronomia, ao azeite de oliva e à cultura da oliveira.</p>
+
+<strong>Localização Serena:</strong>
+
+<p>O Parque Olivas de Gramado está situado em uma área naturalmente calma, cercado por paisagens naturais deslumbrantes. A vista das oliveiras e das montanhas ao redor contribui para a experiência única de visitar este local.<br> <br>
+
+O Parque Olivas de Gramado oferece uma experiência única para os visitantes ao combinar o cultivo de oliveiras, a produção de azeite de oliva artesanal e uma conexão com a cultura gaúcha e italiana. É um lugar onde os amantes da gastronomia e da natureza podem explorar, aprender e desfrutar de sabores autênticos em um ambiente encantador.</p>
+
+	<div class="imagem-fixa">
+     <div class="carousel slide" id="carouselExampleSlides" data-bs-ride="carousel" data-bs-interval="3000">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/be/d7/eb/fazendinha.jpg?w=1100&h=-1&s=1" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/be/df/83/fazendinha-e-olivais.jpg?w=700&h=-1&s=1" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/be/d7/e9/vista-frontal.jpg?w=1200&h=-1&s=1" class="d-block w-100" alt="...">
+        </div>
+      </div>
+     </div>
+    </div>
+    
+    <span class="texto"><a target="_blank" href=https://www.olivasdegramado.com.br/>Saber mais sobre o Olivas de Gramado</a></span>
+	
+  </main>
+    <div id="footer"></div>
+</body>
+</html>

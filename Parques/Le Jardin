@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Descubra a Serra Gaúcha e Suas Principais Atrações Aqui. Contato Via Instagram: @dserragaucha.">
+<meta name="keywords" content="Gramado, serra, gaucha, serra gaucha, turismo, Rio Grande do Sul, guia, descubra serra gaucha, descubra, Gramado RS, Le Jardin, Lavandas, Parque de Lavanda, Flores, Jardim">
+<meta name="google-adsense-account" content="ca-pub-2086035185741362">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QXKWZ2Z0MM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QXKWZ2Z0MM');
+</script>
+
+<title>Guia Turístico da Serra Gaúcha</title>
+<link rel="stylesheet" href="/css/index.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(function(){
+            $("#header").load("/headerfooter/header.html");
+        });
+    </script>
+    <script>
+    $(function(){
+        $("#footer").load("/headerfooter/footer.html");
+    });
+    </script>
+</head>
+<body>
+    <div id="header"></div>
+ <main>
+<h2>Le Jardin</h2>
+    <p>Este local é conhecido por sua beleza cênica e aroma suave de lavanda que envolve os visitantes enquanto exploram seus jardins bem cuidados.</p><br>
+    
+ <strong>Exuberantes Campos de Lavanda:</strong>
+    
+<p>O ponto focal do Le Jardin é, sem dúvida, seus exuberantes canteiros de lavanda. Durante a temporada de floração, que geralmente ocorre na primavera e no verão, os canteiros se transformam em um mar de flores roxas e lilases. Os visitantes podem passear por trilhas serpenteantes que atravessam esses caminhos perfumados, tirando fotos deslumbrantes e desfrutando do aroma relaxante da lavanda.</p>
+
+ <strong>Jardins Temáticos: </strong>
+ 
+<p>Além dos canteiros de lavanda, o parque apresenta uma variedade de jardins temáticos encantadores. Cada jardim é cuidadosamente projetado para oferecer uma experiência única, com uma variedade de flores, árvores e arbustos que se encaixam no tema. Os jardins podem variar de um labirinto de buxo a um jardim de rosas e outros espaços temáticos encantadores.</p>
+
+<strong>Atividades Fotográficas: </strong>
+
+<p>O Le Jardin é um paraíso para fotógrafos, pois oferece uma abundância de cenários pitorescos para capturar. Os canteiros de lavanda, as esculturas de jardim e a arquitetura encantadora proporcionam oportunidades infinitas para fotos memoráveis.</p>
+
+<strong>Bistrô e Loja de Presentes:</strong>
+
+<p>O parque também abriga um bistrô onde os visitantes podem saborear bebidas e lanches. Há também uma loja de presentes onde os visitantes podem comprar produtos relacionados à lavanda, como óleos essenciais, sabonetes e sachês.</p>
+
+<strong>Paisagens de Montanha:</strong>
+
+<p>A localização do Le Jardin na região montanhosa de Gramado oferece vistas deslumbrantes das montanhas circundantes. Os visitantes podem desfrutar das paisagens pitorescas enquanto exploram o parque.</br> </br>
+
+O Le Jardin Parque de Lavanda é um oásis de beleza natural e tranquilidade em Gramado. Seus canteiros de lavanda deslumbrantes, jardins temáticos encantadores e ambiente relaxante o tornam um destino popular para os amantes da natureza, entusiastas da fotografia e todos que desejam desfrutar de um pouco de paz e beleza na Serra Gaúcha.</p>
+
+	<div class="imagem-fixa">
+     <div class="carousel slide" id="carouselExampleSlides" data-bs-ride="carousel" data-bs-interval="3000">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/49/ad/a0/vista-geral.jpg?w=1200&h=-1&s=1" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/b1/b4/1c/caption.jpg?w=1200&h=-1&s=1" class="d-block w-100" alt="...">
+        </div>
+      </div>
+     </div>
+    </div>
+    
+    <span class="texto"><a target="_blank" href=https://lavandas.com.br/>Saber mais sobre o Le Jardin</a></span>
+
+  </main>
+    <div id="footer"></div>
+</body>
+</html>

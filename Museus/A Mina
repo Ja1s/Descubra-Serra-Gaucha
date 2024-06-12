@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Descubra a Serra Gaúcha e Suas Principais Atrações Aqui. Contato Via Instagram: @dserragaucha.">
+<meta name="keywords" content="Gramado, serra, gaucha, serra gaucha, turismo, Rio Grande do Sul, guia, descubra serra gaucha, descubra, Gramado RS, A Mina, Mina, Pedras Preciosas">
+<meta name="google-adsense-account" content="ca-pub-2086035185741362">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QXKWZ2Z0MM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QXKWZ2Z0MM');
+</script>
+
+<title>Guia Turístico da Serra Gaúcha</title>
+<link rel="stylesheet" href="/css/index.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(function(){
+            $("#header").load("/headerfooter/header.html");
+        });
+    </script>
+    <script>
+    $(function(){
+        $("#footer").load("/headerfooter/footer.html");
+    });
+    </script>
+</head>
+<body>
+    <div id="header"></div>
+ <main>
+<h2>A Mina</h2>
+    <p>A Mina é uma atração que oferece aos visitantes a oportunidade de explorar as maravilhas geológicas do subsolo em uma experiência educacional e emocionante. Este parque singular cativa a imaginação dos visitantes de todas as idades, proporcionando uma jornada inesquecível ao coração da Terra.</p><br>
+    
+ <strong>Principais Atrações e Características:</strong>
+    
+<p>O Parque A Mina é construído em torno de uma autêntica mina de pedras preciosas, onde visitantes podem observar as rochas e minerais que compõem as entranhas da Terra. Você terá a chance de aprender sobre geologia, mineração e a formação dessas pedras incríveis.</p>
+
+ <strong>Passeio de Trem: </strong>
+ 
+<p> Uma das atrações mais populares do parque é o passeio de trem que leva os visitantes para o interior da mina. O trem percorre trilhas subterrâneas escuras, revelando cavernas e formações rochosas surpreendentes. Durante o passeio, um guia experiente compartilha informações fascinantes sobre a geologia local.</p>
+
+<strong>Exposições Interativas: </strong>
+
+<p>O Parque A Mina possui exposições interativas que mergulham profundamente na história da mineração, incluindo ferramentas e técnicas antigas e modernas. Os visitantes podem ter uma compreensão completa do processo de extração de minerais, desde os primórdios até os métodos atuais.</p>
+
+<p>O Parque A Mina é uma oportunidade única de explorar o fascinante mundo geológico que geralmente está oculto sob nossos pés. Com sua mina autêntica, passeio de trem emocionante e exposições envolventes, este parque proporciona uma experiência educacional e emocionante em meio às belas paisagens das Serras Gaúchas.</p>
+
+	<div class="imagem-fixa">
+     <div class="carousel slide" id="carouselExampleSlides" data-bs-ride="carousel" data-bs-interval="3000">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://img.lacadordeofertas.com.br/site/NjUwNF8vdG1wL3BocFFzZ3BhRV8xNDcwODU3Mjk4.jpg?ims=460x" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://media-cdn.tripadvisor.com/media/photo-s/1d/83/a5/7f/interior-da-mina-a-mina.jpg" class="d-block w-100" alt="...">
+        </div>
+      </div>
+     </div>
+    </div>
+    
+    <span class="texto"><a target="_blank" href=https://aminamuseu.com.br/>Saber mais sobre A Mina</a></span>
+	
+  </main>
+    <div id="footer"></div>
+</body>
+</html>

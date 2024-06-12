@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Descubra a Serra Gaúcha e Suas Principais Atrações Aqui. Contato Via Instagram: @dserragaucha.">
+<meta name="keywords" content="Gramado, serra, gaucha, serra gaucha, turismo, Rio Grande do Sul, guia, descubra serra gaucha, descubra, Gramado RS, Perfume, Fragram">
+<meta name="google-adsense-account" content="ca-pub-2086035185741362">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QXKWZ2Z0MM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QXKWZ2Z0MM');
+</script>
+
+<title>Guia Turístico da Serra Gaúcha</title>
+<link rel="stylesheet" href="/css/index.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(function(){
+            $("#header").load("/headerfooter/header.html");
+        });
+    </script>
+    <script>
+    $(function(){
+        $("#footer").load("/headerfooter/footer.html");
+    });
+    </script>
+</head>
+<body>
+    <div id="header"></div>
+ <main>
+<h2>Fragram</h2>
+    <p>O Fragram - Museu do Perfume é uma homenagem à arte e à ciência por trás da criação de fragrâncias e perfumes. Ao visitar o Fragram, os visitantes têm a oportunidade única de explorar o mundo mágico dos aromas e descobrir os segredos por trás das fragrâncias que nos rodeiam</p><br>
+    
+ <strong>Exposição de Perfumes:</strong>
+    
+<p>O museu apresenta uma extensa coleção de perfumes raros e icônicos de várias partes do mundo. Os visitantes podem aprender sobre a história do perfume, desde suas origens antigas até as criações modernas de perfumistas renomados.</p>
+
+ <strong>Processo de Fabricação:</strong>
+ 
+<p>O Fragram oferece uma visão detalhada do processo de fabricação de perfumes, desde a seleção de matérias-primas de alta qualidade até a destilação e o envelhecimento. Os visitantes podem ver equipamentos e aprender sobre os métodos utilizados na produção de fragrâncias.</p>
+
+<strong>Aromas do Mundo:</strong>
+
+<p>Uma experiência sensorial única permite aos visitantes explorar uma variedade de aromas de ingredientes naturais, como flores, frutas e especiarias. Isso proporciona uma compreensão mais profunda das notas de fragrâncias.</p>
+
+<strong>História e Cultura:</strong>
+
+<p>Além de explorar o mundo dos perfumes, os visitantes podem aprender sobre a história e a cultura dos perfumes em diferentes épocas e regiões.</p>
+
+<strong>Loja de Presentes:</strong>
+
+<p>Uma loja de presentes no museu oferece uma ampla variedade de perfumes, fragrâncias e produtos relacionados para aqueles que desejam levar para casa uma lembrança perfumada.</p>
+
+<strong>Educação e Sensibilização Ambiental:</strong>
+
+<p>O Fragram também valoriza a educação e a conscientização ambiental. Os visitantes podem aprender sobre práticas sustentáveis na indústria de perfumes e como escolher produtos que são amigáveis ao meio ambiente.<br> <br>
+
+O Fragram - Museu do Perfume é uma jornada encantadora e educativa através do mundo dos aromas e fragrâncias. É uma atração imperdível para amantes de perfumes, curiosos sobre a ciência por trás dos aromas e aqueles que desejam explorar a história e a cultura dos perfumes. Uma visita ao Fragram é uma experiência sensorial e informativa que cativa os sentidos e deixa uma lembrança perfumada duradoura.</p>
+
+	<div class="imagem-fixa">
+     <div class="carousel slide" id="carouselExampleSlides" data-bs-ride="carousel" data-bs-interval="3000">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://storage.gramadoinesquecivel.tur.br/11100/fragramjpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://fragram.com.br/wp-content/uploads/2020/06/fragran-37-1-1199x800.jpg" class="d-block w-100" alt="...">
+        </div>
+      </div>
+     </div>
+    </div>
+    
+    <span class="texto"><a target="_blank" href=https://fragram.com.br/>Saber mais sobre o Fragram</a></span>
+	
+  </main>
+    <div id="footer"></div>
+</body>
+</html>

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Descubra a Serra Gaúcha e Suas Principais Atrações Aqui. Contato Via Instagram: @dserragaucha.">
+<meta name="keywords" content="Gramado, serra, gaucha, serra gaucha, turismo, Rio Grande do Sul, guia, descubra serra gaucha, descubra, Gramado RS, Cristais, Cristais de Gramado">
+<meta name="google-adsense-account" content="ca-pub-2086035185741362">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QXKWZ2Z0MM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QXKWZ2Z0MM');
+</script>
+
+<title>Guia Turístico da Serra Gaúcha</title>
+<link rel="stylesheet" href="/css/index.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(function(){
+            $("#header").load("/headerfooter/header.html");
+        });
+    </script>
+    <script>
+    $(function(){
+        $("#footer").load("/headerfooter/footer.html");
+    });
+    </script>
+</head>
+<body>
+    <div id="header"></div>
+ <main>
+<h2>Cristais de Gramado</h2>
+    <p>A Cristais de Gramado - AO VIVO transformou a história do cristal artístico em uma experiência espetacular.</p>
+    <p>Visite a única fábrica do Brasil que apresenta a história do Cristal Murano em uma experiência imersiva e sensorial. Veja de perto as belíssimas criações artísticas dos nossos mestres vidreiros e conheça, como poucos, os segredos dessa arte milenar.
+</p>
+    <p>O parque coberto de mais de 2 mil m² reúne surpreendentes experiências.</p>
+    <p>Durante a jornada de conhecimentos, é possível acompanhar ao vivo a produção de peças únicas, verdadeiras obras de arte, moldadas a partir de muita técnica e talento. A apresentação do espetáculo “A Voz do Cristal”, em que as taças formam uma harmônica de cristal, é outro momento mágico proporcionado aos visitantes.</p>
+    <p>A Cristais de Gramado promove, desde 2002, uma imersão por este universo de arte. Visite, também, o showroom com mais de 4 mil peças de decoração e utilitários, além da joalheria contemporânea com 24 mil joias.</p>
+    
+    <p>Em resumo, os Cristais de Gramado são muito mais do que uma loja de pedras preciosas. Eles são uma jornada pela beleza, pela ciência e pela espiritualidade dos cristais. Ao visitar esse local, os visitantes têm a oportunidade de explorar o mundo fascinante dos minerais e, ao mesmo tempo, encontrar momentos de paz e reflexão em um ambiente cercado pela beleza natural da Serra Gaúcha.</p>
+
+    <strong>Endereço</strong><br>
+    <p>RS 115, nº 36161 (junto ao Pórtico de entrada em Gramado)</p><br>
+    
+    <strong>Horários</strong><br>
+    <p>8h30 às 17h30, diariamente.</p><br>
+    
+    <strong>Transporte Gratuito</strong><br>
+    <p> Estando em Gramado/ Canela, o visitante pode agendar o tranfer gratuito diretamente pelo Whatsapp (54) 3286-0100.
+</p><br>
+    
+    <strong>Outras Comodidades</strong><br>
+    <p>Estacionamento Gratuito | Vagas para recarregamento gratuito de carros elétricos e híbridos | Pet Friendly | Espaço Kids | Envia mercadorias para todo o Brasil
+</p><br>
+
+	<div class="imagem-fixa">
+     <div class="carousel slide" id="carouselExampleSlides" data-bs-ride="carousel" data-bs-interval="3000">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="/assets/media/Atracao/CDG.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="/assets/media/Atracao/CDG0.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="/assets/media/Atracao/CDG1.jpg" class="d-block w-100" alt="...">
+        </div>
+      </div>
+     </div>
+    </div>
+    
+    <span class="texto"><a target="_blank" href=https://cristaisdegramado.com.br/>Saber mais sobre os Cristais de Gramado</a></span>
+	
+  </main>
+    <div id="footer"></div>
+</body>
+</html>

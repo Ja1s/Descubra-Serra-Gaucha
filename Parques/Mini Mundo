@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Descubra a Serra Gaúcha e Suas Principais Atrações Aqui. Contato Via Instagram: @dserragaucha.">
+<meta name="keywords" content="Gramado, serra, gaucha, serra gaucha, turismo, Rio Grande do Sul, guia, descubra serra gaucha, descubra, Gramado RS, Mini Mundo, Minimundo, Miniatura">
+<meta name="google-adsense-account" content="ca-pub-2086035185741362">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QXKWZ2Z0MM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QXKWZ2Z0MM');
+</script>
+
+<title>Guia Turístico da Serra Gaúcha</title>
+<link rel="stylesheet" href="/css/index.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(function(){
+            $("#header").load("/headerfooter/header.html");
+        });
+    </script>
+    <script>
+    $(function(){
+        $("#footer").load("/headerfooter/footer.html");
+    });
+    </script>
+</head>
+<body>
+    <div id="header"></div>
+ <main>
+<h2>Mini Mundo</h2>
+    <p>O Mini Mundo é uma das atrações mais icônicas e adoradas da cidade de Gramado. Este encantador parque em miniatura oferece aos visitantes a oportunidade de explorar réplicas detalhadas de cidades e paisagens em escala reduzida.</p><br>
+    
+ <strong>Cidades em Miniatura:</strong>
+    
+<p>O destaque do Mini Mundo são suas incríveis reproduções em miniatura de cidades e paisagens famosas de todo o mundo. As réplicas são notavelmente precisas, com construções, veículos e figuras humanas em miniatura que refletem fielmente os detalhes das cidades originais. Você pode encontrar miniaturas de locais como Veneza, Rio de Janeiro, Nova York e muitos outros.</p>
+
+ <strong>Arquitetura Detalhada:</strong>
+ 
+<p>Uma das características mais impressionantes do Mini Mundo é a atenção aos detalhes na arquitetura das miniaturas. Desde os telhados de cerâmica até as fachadas das casas e monumentos, tudo é minuciosamente trabalhado para capturar a essência das estruturas originais.</p>
+
+<strong>Paisagens Naturalistas:</strong>
+
+<p>Além das cidades em miniatura, o parque também apresenta paisagens naturais deslumbrantes, incluindo lagos, jardins e áreas rurais. Isso cria um ambiente agradável e autêntico para as miniaturas e proporciona um ambiente relaxante para os visitantes.</p>
+
+<strong>Interatividade:</strong>
+
+<p>O Mini Mundo oferece uma experiência interativa, onde os visitantes podem operar trens em miniatura, embarcações e outros elementos. Isso é especialmente atraente para crianças, que adoram controlar os movimentos dos trens e barcos.</p>
+
+<strong>História e Educação:</strong>
+
+<p>Além das cidades em miniatura, o parque também apresenta paisagens naturais deslumbrantes, incluindo lagos, jardins e áreas rurais. Isso cria um ambiente agradável e autêntico para as miniaturas e proporciona um ambiente relaxante para os visitantes.</p>
+
+<strong>Estações do Ano:</strong>
+
+<p>Uma característica única do Mini Mundo é a representação das quatro estações do ano. As miniaturas são ajustadas para refletir as diferentes estações, com árvores que mudam de cor no outono e áreas cobertas de neve no inverno.</p>
+
+<strong>Cuidado com os Detalhes:</strong>
+
+<p>A equipe do Mini Mundo é conhecida por seu cuidado meticuloso na manutenção das miniaturas. Eles garantem que tudo esteja em perfeito estado, desde os minúsculos carros até as árvores em miniatura.</p>
+
+<strong>Loja de Recordações:</strong>
+
+<p>No final da visita, os visitantes podem explorar a loja de recordações do Mini Mundo, onde podem adquirir lembranças exclusivas relacionadas às miniaturas e à cultura local.<br> <br>
+
+O Mini Mundo é uma atração que cativa a imaginação de pessoas de todas as idades. É uma viagem encantadora pelo mundo em miniatura, onde você pode apreciar a beleza da arquitetura, a riqueza dos detalhes e a magia de observar cidades inteiras em escala reduzida. É um lugar que combina educação, entretenimento e apreciação artística, tornando-o uma visita obrigatória para quem viaja para Gramado.</p>
+
+	<div class="imagem-fixa">
+     <div class="carousel slide" id="carouselExampleSlides" data-bs-ride="carousel" data-bs-interval="3000">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/9c/4a/46/inspire-se-nos-detalhes.jpg?w=1200&h=-1&s=1" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/43/36/87/photo8jpg.jpg?w=1200&h=-1&s=1" class="d-block w-100" alt="...">
+        </div>
+      </div>
+     </div>
+    </div>
+    
+    <span class="texto"><a target="_blank" href=https://minimundo.com.br/>Saber mais sobre o Mini Mundo</a></span>
+	
+  </main>
+    <div id="footer"></div>
+</body>
+</html>
