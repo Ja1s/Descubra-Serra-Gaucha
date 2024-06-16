@@ -24,7 +24,7 @@ O **Descubra Serra Gaúcha** é uma plataforma que oferece:
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-712cf9?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 
-## 📫 Como Contribuir
+## 📫 Contato
 
 Estamos sempre buscando melhorar o **Descubra Serra Gaúcha**. Se você deseja contribuir, tiver alguma dúvida ou sugestão, entre em contato via:
 
